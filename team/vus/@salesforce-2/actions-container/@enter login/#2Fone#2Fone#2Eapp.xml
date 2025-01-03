@@ -1,0 +1,104 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/one/one.app"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@salesforce-2/%resources%/recorded-artifacts/ebd2b43f-cccf-4832-942b-5ca9d306d63f.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="ebd2b43f-cccf-4832-942b-5ca9d306d63f">
+    <embedded-action>b317e658-5ecd-4f14-a63a-d7a8eb35095d</embedded-action>
+    <embedded-action>456b6d07-dd86-475c-a957-0f28a8b61eac</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/one/one.app" path="/one/one.app" postType="6"
+    recordedArtifactZipFileName="team/vus/@salesforce-2/%resources%/recorded-artifacts/ebd2b43f-cccf-4832-942b-5ca9d306d63f.zip"
+    recordedResponseCode="302" responseSize="0"
+    serverUid="rhbbank--dev022024.sandbox.my.salesforce.com"
+    slaProfileEnabled="false" uid="b317e658-5ecd-4f14-a63a-d7a8eb35095d" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_b317e658-5ecd-4f14-a63a-d7a8eb35095d.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="navigate"/>
+    <header name="referer" value="https://rhbbank--dev022024.sandbox.file.force.com/secur/contentDoor?startURL=https%3A%2F%2Frhbbank--dev022024.sandbox.my.salesforce.com%2Fone%2Fone.app&amp;sid=00D85000000RErh%21AQEAQHTi98clEf8e6RTQNmriGCFNvEWSjJ.sub2.OTIQ0PeBCQ_0pV3VAQOB2V_x6hkeV40jX9uI6bOzNv07YbbGpbyg9AoW&amp;skipRedirect=1&amp;lm=eyJlbmMiOiJBMjU2R0NNIiwiYXVkIjoiMDBEODUwMDAwMDBSRXJoIiwia2lkIjoie1widFwiOlwiMDBEODUwMDAwMDBSRXJoXCIsXCJ2XCI6XCIwMkdJVzAwMDAwMG16bHhcIixcImFcIjpcImNvbnRlbnRkb29ydXNlcnRyYW5zaWVudGtleWVuY3J5cHRcIixcInVcIjpcIjAwNTg1MDAwMDAyQWd1VFwifSIsImNyaXQiOlsiaWF0Il0sImlhdCI6MTczNTg4NjcxMDc4NiwiZXhwIjowfQ%3D%3D..IyHNcqA56835YqvN.BlcrPLpAbBEkf3RGvBPuTQ%3D%3D.ByLgBrD35Wok71Hq8HdXVQ%3D%3D"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="cookie" value="BrowserId=xkDZVsEUEe-q9SFK9jh61w; sfdcConsent=1,3,4; _ga=GA1.1.502163927.1734948049; _gcl_au=1.1.979997168.1734948079; rememberUn=false; com.salesforce.LocaleInfo=us; autocomplete=1; oinfo=c3RhdHVzPURFTU8mdHlwZT0yJm9pZD0wMEQ4NTAwMDAwMFJFcmg=; CookieConsentPolicy=0:1; LSKey-c$CookieConsentPolicy=0:1; oid=00D85000000RErh; 79eb100099b9a8bf=3:false:.salesforce.com; webact=%7B%22l_vdays%22%3A1%2C%22l_visit%22%3A1735882172983%2C%22session%22%3A1735886647538%2C%22l_search%22%3A%22%22%2C%22l_dtype%22%3A%22SFDC%20Network%22%2C%22l_page%22%3A%22SFDC%3Aus%3Alogin%22%2C%22l_page_url%22%3A%22https%3A%2F%2Fc.salesforce.com%2Flogin-messages%2Fpromos.html%22%2C%22counter%22%3A5%2C%22pv%22%3A3%2C%22f_visit%22%3A1734948046526%2C%22seg%22%3A%22customer%3Aus%22%2C%22customer%22%3A1735817891243%2C%22d%22%3A%2270130000000sUW0%22%7D; OptanonConsent=isGpcEnabled=0&amp;datestamp=Fri+Jan+03+2025+12%3A14%3A08+GMT%2B0530+(India+Standard+Time)&amp;version=202401.2.0&amp;browserGpcFlag=0&amp;isIABGlobal=false&amp;hosts=&amp;consentId=bf096b7f-b553-4965-a084-c19864b8ddb7&amp;interactionCount=1&amp;landingPath=https%3A%2F%2Fc.salesforce.com%2Flogin-messages%2Fpromos.html&amp;groups=1%3A1%2C3%3A1%2C4%3A1; _ga_S6WMKB0ZK3=GS1.1.1735886330.6.1.1735886648.0.0.0; _ga_ESNS60PH6F=GS1.1.1735886330.6.1.1735886648.0.0.0; inst=APP_85; sfdc_lv2=KxG83HZfr4S1KdQ7DE6EQOv68hHvbvqAJN7pJl9XK2Rwh2qFcr0X/93qb+Iu0POjBMbMzY8wtoMuhmYDLZ0Zd0blyLV+myHX0=; disco=85:00D85000000RErh:00585000002AguT:2; sid=00D85000000RErh!AQEAQHcJrRAPGLILQbO6xOJ83eUmrJMkkMkOFE3cxfOUnklq.LWU7jgV3Gz_eyjFZHApFp_Q1Tmnth3k1PeSLhnTqInjZdHE; sid_Client=5000002AguT5000000RErh; clientSrc=163.116.213.40"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=0, i"/>
+    <header name="accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="upgrade-insecure-requests" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="document"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 302&#xd;
+date: Fri, 03 Jan 2025 06:45:12 GMT&#xd;
+content-type: text/html;charset=UTF-8&#xd;
+Content-Length: 0&#xd;
+location: https://rhbbank--dev022024.sandbox.lightning.force.com/one/one.app&#xd;
+vary: Origin&#xd;
+strict-transport-security: max-age=63072000; includeSubDomains&#xd;
+x-robots-tag: none&#xd;
+origin-trial: AqlAE64ET63tVSana3qdVkfkPAgyUhY8GwcehUlpqv067CevOpumeNUlx9YouLkBxJ0CT+EwIb8/SiNbF2NGvwYAAABfeyJvcmlnaW4iOiJodHRwczovL3NhbGVzZm9yY2UuY29tOjQ0MyIsImZlYXR1cmUiOiJUcGNkIiwiZXhwaXJ5IjoxNzM1MzQzOTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZX0=&#xd;
+x-content-type-options: nosniff&#xd;
+cache-control: private&#xd;
+content-security-policy: upgrade-insecure-requests&#xd;
+referrer-policy: origin-when-cross-origin&#xd;
+server: sfdcedge&#xd;
+x-sfdc-request-id: 4e27bc7839e70a651b95d4bec163bccc&#xd;
+x-request-id: 4e27bc7839e70a651b95d4bec163bccc&#xd;
+x-sfdc-edge-cache: MISS</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" contentType="text/html;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/visualforce/session" path="/visualforce/session"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@salesforce-2/%resources%/recorded-artifacts/ebd2b43f-cccf-4832-942b-5ca9d306d63f.zip"
+    recordedResponseCode="302" responseSize="0"
+    serverUid="rhbbank--dev022024.sandbox.my.salesforce.com"
+    slaProfileEnabled="false" uid="456b6d07-dd86-475c-a957-0f28a8b61eac" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_456b6d07-dd86-475c-a957-0f28a8b61eac.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="url"
+        recordRawValue="https%3A%2F%2Frhbbank--dev022024.sandbox.lightning.force.com%2Fone%2Fone.app"
+        separator="="
+        value="https://rhbbank--dev022024.sandbox.lightning.force.com/one/one.app" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="navigate"/>
+    <header name="referer" value="https://rhbbank--dev022024.sandbox.file.force.com/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="cookie" value="BrowserId=xkDZVsEUEe-q9SFK9jh61w; sfdcConsent=1,3,4; _ga=GA1.1.502163927.1734948049; _gcl_au=1.1.979997168.1734948079; rememberUn=false; com.salesforce.LocaleInfo=us; autocomplete=1; oinfo=c3RhdHVzPURFTU8mdHlwZT0yJm9pZD0wMEQ4NTAwMDAwMFJFcmg=; CookieConsentPolicy=0:1; LSKey-c$CookieConsentPolicy=0:1; oid=00D85000000RErh; 79eb100099b9a8bf=3:false:.salesforce.com; webact=%7B%22l_vdays%22%3A1%2C%22l_visit%22%3A1735882172983%2C%22session%22%3A1735886647538%2C%22l_search%22%3A%22%22%2C%22l_dtype%22%3A%22SFDC%20Network%22%2C%22l_page%22%3A%22SFDC%3Aus%3Alogin%22%2C%22l_page_url%22%3A%22https%3A%2F%2Fc.salesforce.com%2Flogin-messages%2Fpromos.html%22%2C%22counter%22%3A5%2C%22pv%22%3A3%2C%22f_visit%22%3A1734948046526%2C%22seg%22%3A%22customer%3Aus%22%2C%22customer%22%3A1735817891243%2C%22d%22%3A%2270130000000sUW0%22%7D; OptanonConsent=isGpcEnabled=0&amp;datestamp=Fri+Jan+03+2025+12%3A14%3A08+GMT%2B0530+(India+Standard+Time)&amp;version=202401.2.0&amp;browserGpcFlag=0&amp;isIABGlobal=false&amp;hosts=&amp;consentId=bf096b7f-b553-4965-a084-c19864b8ddb7&amp;interactionCount=1&amp;landingPath=https%3A%2F%2Fc.salesforce.com%2Flogin-messages%2Fpromos.html&amp;groups=1%3A1%2C3%3A1%2C4%3A1; _ga_S6WMKB0ZK3=GS1.1.1735886330.6.1.1735886648.0.0.0; _ga_ESNS60PH6F=GS1.1.1735886330.6.1.1735886648.0.0.0; inst=APP_85; sfdc_lv2=KxG83HZfr4S1KdQ7DE6EQOv68hHvbvqAJN7pJl9XK2Rwh2qFcr0X/93qb+Iu0POjBMbMzY8wtoMuhmYDLZ0Zd0blyLV+myHX0=; disco=85:00D85000000RErh:00585000002AguT:2; sid=00D85000000RErh!AQEAQHcJrRAPGLILQbO6xOJ83eUmrJMkkMkOFE3cxfOUnklq.LWU7jgV3Gz_eyjFZHApFp_Q1Tmnth3k1PeSLhnTqInjZdHE; sid_Client=5000002AguT5000000RErh; clientSrc=163.116.213.40"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=0, i"/>
+    <header name="accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="upgrade-insecure-requests" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="document"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 302&#xd;
+date: Fri, 03 Jan 2025 06:45:12 GMT&#xd;
+content-type: text/html;charset=UTF-8&#xd;
+Content-Length: 0&#xd;
+location: https://rhbbank--dev022024.sandbox.lightning.force.com/visualforce/recsession?sid=00D85000000RErh%21AQEAQJi6SrPdT_hLAtbIa3eAoG61PU2uNWgrXqaOEpysSCGDt_3Bx0M3fQJg9AMaG4wmdywLmSNGBuG0Fa4TnaIUZ19pvxcN&amp;inst=85&amp;cshc=5000002AguT5000000RErh&amp;retURL=https%3A%2F%2Frhbbank--dev022024.sandbox.lightning.force.com%2Fone%2Fone.app&#xd;
+strict-transport-security: max-age=63072000; includeSubDomains&#xd;
+x-robots-tag: none&#xd;
+origin-trial: AqlAE64ET63tVSana3qdVkfkPAgyUhY8GwcehUlpqv067CevOpumeNUlx9YouLkBxJ0CT+EwIb8/SiNbF2NGvwYAAABfeyJvcmlnaW4iOiJodHRwczovL3NhbGVzZm9yY2UuY29tOjQ0MyIsImZlYXR1cmUiOiJUcGNkIiwiZXhwaXJ5IjoxNzM1MzQzOTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZX0=&#xd;
+x-content-type-options: nosniff&#xd;
+expires: Thu, 01 Jan 1970 00:00:00 GMT&#xd;
+set-cookie: 79eb100099b9a8bf=3:false:.salesforce.com; domain=.salesforce.com; path=/; secure; SameSite=None&#xd;
+cache-control: no-cache,must-revalidate,max-age=0,no-store,private&#xd;
+content-security-policy: upgrade-insecure-requests&#xd;
+referrer-policy: origin-when-cross-origin&#xd;
+server: sfdcedge&#xd;
+x-sfdc-request-id: 2b7e40c11ecc990958ac4cc787ab4252&#xd;
+x-request-id: 2b7e40c11ecc990958ac4cc787ab4252&#xd;
+x-sfdc-edge-cache: MISS</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

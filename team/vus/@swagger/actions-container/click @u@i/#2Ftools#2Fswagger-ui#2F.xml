@@ -1,0 +1,55 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/tools/swagger-ui/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@swagger/%resources%/recorded-artifacts/f2facd7f-230e-4ba2-bc60-f90578fa6a6b.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="f2facd7f-230e-4ba2-bc60-f90578fa6a6b">
+    <embedded-action>d424ab57-f200-401f-8ffe-5801b3f8a305</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/tools/swagger-ui/" path="/tools/swagger-ui/"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@swagger/%resources%/recorded-artifacts/f2facd7f-230e-4ba2-bc60-f90578fa6a6b.zip"
+    recordedResponseCode="200" responseSize="119934"
+    serverUid="swagger.io" slaProfileEnabled="false"
+    uid="d424ab57-f200-401f-8ffe-5801b3f8a305" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d424ab57-f200-401f-8ffe-5801b3f8a305.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d424ab57-f200-401f-8ffe-5801b3f8a305.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="navigate"/>
+    <header name="referer" value="https://swagger.io/tools/swagger-ui/"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="CMSPreferredCulture=en-US; CMSCsrfCookie=AQbScSiEPs5fOlnKB1jm7+zzbsBBgF3u5HO4S7jG; ASP.NET_SessionId=5slc4p3cquxonok4nvg4qtof; _conv_r=s%3Awww.google.com*m%3Aorganic*t%3A*c%3A; _gid=GA1.2.1535029883.1735894184; cookiehub=eyJhbnN3ZXJlZCI6dHJ1ZSwicmV2aXNpb24iOjEsImRudCI6ZmFsc2UsImFsbG93U2FsZSI6dHJ1ZSwiaW1wbGljdCI6ZmFsc2UsInJlZ2lvbiI6IkM0IiwidG9rZW4iOiI4azV6dXhIdmx6OGo3RkI1dGxicUgyUmFMemNxWm1RTlJWZjdUSkNSbWJkQ2VSNExUaHdrNTliRkVNSW02RXBIIiwidGltZXN0YW1wIjoiMjAyNS0wMS0wM1QwODo0OTo0NS45MzBaIiwiYWxsQWxsb3dlZCI6dHJ1ZSwiY2F0ZWdvcmllcyI6W10sInZlbmRvcnMiOltdLCJzZXJ2aWNlcyI6W10sImltcGxpY2l0IjpmYWxzZX0=; _gcl_au=1.1.1054163578.1735894186; userId=92563881735894186177; sessionUTM=eyJ1dG1fc291cmNlIjoiZ29vZ2xlIiwidXRtX21lZGl1bSI6Im9yZ2FuaWMifQ==; mktLP=c3dhZ2dlci5pby90b29scy9zd2FnZ2VyLXVpLw==; _gd_visitor=b64909b9-386f-4e0f-8795-a95df9de27ed; _gd_session=e5702ba3-9c18-4897-8a1d-7eb447e02c69; _mkto_trk=id:800-TIV-782&amp;token:_mch-swagger.io-83e6ad7a7f6a61cc603e41999eb5af6d; _an_uid=2056117375864801599; drift_campaign_refresh=db373bee-eb8b-43b3-b9ac-e73bb08bf037; drift_aid=a4f3d3ae-6242-44d2-a3c6-f6efc4103954; driftt_aid=a4f3d3ae-6242-44d2-a3c6-f6efc4103954; _uetsid=f289afe0c9af11ef8731e9af86a87335; _uetvid=f289ca00c9af11ef9fa27dd0228f1343; _ga_F11FV1HQ2E=GS1.1.1735894391.1.1.1735894436.0.0.0; _conv_v=vi%3A1*sc%3A1*cs%3A1735894182*fs%3A1735894182*pv%3A14; _conv_s=si%3A1*sh%3A1735894182016-0.31070157910757956*pv%3A14; _ga_MHRZ11T9PF=GS1.1.1735894182.1.1.1735894550.60.0.0; _ga_BB2BQ52LHM=GS1.1.1735894183.1.1.1735894550.60.0.0; _ga=GA1.2.1915762189.1735894183"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=0, i"/>
+    <header name="sec-fetch-user" value="?1"/>
+    <header name="accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="upgrade-insecure-requests" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="document"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Fri, 03 Jan 2025 08:56:05 GMT&#xd;
+content-type: text/html; charset=utf-8&#xd;
+cache-control: no-cache, no-store, must-revalidate&#xd;
+pragma: no-cache&#xd;
+expires: -1&#xd;
+vary: Accept-Encoding&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-ua-compatible: IE=Edge&#xd;
+x-powered-by: ASP.NET&#xd;
+x-xss-protection: 1; mode=block&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains; preload&#xd;
+cf-cache-status: DYNAMIC&#xd;
+server: cloudflare&#xd;
+cf-ray: 8fc1c604db7e47b1-BOM&#xd;
+content-encoding: br</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

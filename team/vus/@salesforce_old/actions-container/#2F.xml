@@ -1,0 +1,32 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@salesforce_old/%resources%/recorded-artifacts/65e0a66d-ccae-4c73-903a-50e8ff4f66d3.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="65e0a66d-ccae-4c73-903a-50e8ff4f66d3">
+    <embedded-action>70f3ec68-e71b-4559-9989-7db492d5afb4</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/" path="/" postType="6"
+    recordedArtifactZipFileName="team/vus/@salesforce_old/%resources%/recorded-artifacts/65e0a66d-ccae-4c73-903a-50e8ff4f66d3.zip"
+    recordedResponseCode="200" responseSize="35"
+    serverUid="achecker-prologis.goskope.com" slaProfileEnabled="false"
+    uid="70f3ec68-e71b-4559-9989-7db492d5afb4" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_9bb10cd0-c59f-407e-a9c7-427790121345.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9bb10cd0-c59f-407e-a9c7-427790121345.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Host" value="achecker-prologis.goskope.com"/>
+    <header name="User-Agent" value="Windows Server 10.0 x64;Netskope ST Agent 114.0.18.2213;WSAMZN-MD8FV45A"/>
+    <header name="X-NS-GET-ACCESS-METHOD" value="1"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Length: 35&#xd;
+Cache-Control: no-store&#xd;
+Content-Type: text/html&#xd;
+Connection: close</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

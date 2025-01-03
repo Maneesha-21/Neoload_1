@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Select Recently viewed in leads" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="c1e69422-b81f-4e14-8606-3f783184168c" weightsEnabled="false">
+    <weighted-embedded-action uid="9f4bbb9f-8f2f-4d29-aead-3521b4a29bf6"/>
+</basic-logical-action-container>

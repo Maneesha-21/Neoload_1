@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="select lease" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="4f5345ff-907c-400d-a75c-e781a10eda4f" weightsEnabled="false">
+    <weighted-embedded-action uid="421b2377-28dc-4fe7-aa71-0779124ac21d"/>
+</basic-logical-action-container>

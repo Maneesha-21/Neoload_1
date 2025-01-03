@@ -1,0 +1,247 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/login-messages/promos.html" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@salesforce-3/%resources%/recorded-artifacts/800b83ee-5da7-4762-ba9c-78afd417f56a.zip"
+    slaProfileEnabled="false" thinkTime="1132"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="800b83ee-5da7-4762-ba9c-78afd417f56a">
+    <embedded-action>7ea0dcb4-e2c0-43df-8d5e-63473fe3537d</embedded-action>
+    <embedded-action>665edc47-bc8d-4110-b8bd-bade933258e4</embedded-action>
+    <embedded-action>3ce3947f-fc9d-48b5-ab5c-67564f4a41c5</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Thu, 02 Jan 2025 20:50:02 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/login-messages/promos.html"
+    path="/login-messages/promos.html" postType="6"
+    recordedArtifactZipFileName="team/vus/@salesforce-3/%resources%/recorded-artifacts/800b83ee-5da7-4762-ba9c-78afd417f56a.zip"
+    recordedResponseCode="200" responseSize="19664"
+    serverUid="c.salesforce.com" slaProfileEnabled="false"
+    uid="7ea0dcb4-e2c0-43df-8d5e-63473fe3537d" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_7ea0dcb4-e2c0-43df-8d5e-63473fe3537d.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_7ea0dcb4-e2c0-43df-8d5e-63473fe3537d.txt</requestContentFileDescription>
+    <variable-extractor assertionOnNoMatch="false"
+        defaultValue="&lt;NOT FOUND>" displayMode="0"
+        endsWithSimple="&#xd;" extractFromVarNameAdv=""
+        extractFromVarNameSimple="" extractType="5" extractTypeAdv="0"
+        extractTypeSimple="5" matchNumber="1" matchNumberAdv="1"
+        matchNumberSimple="1" name="x-ua-compatible"
+        refererUid="7ea0dcb4-e2c0-43df-8d5e-63473fe3537d"
+        regExp="x-ua-compatible:(.*?)\r" regExpAdv=""
+        setDefaultValue="true" startsWithSimple="x-ua-compatible:"
+        template="$1$" templateAdv="$1$"
+        uid="4894a37b-7af5-40d1-aaa8-be5903cc1e18" xpath="">
+        <variable-extractor-group extract="true" occurs="1" pattern="" type="4"/>
+    </variable-extractor>
+    <variable-extractor assertionOnNoMatch="false"
+        defaultValue="&lt;NOT FOUND>" displayMode="0"
+        endsWithSimple="&#xd;" extractFromVarNameAdv=""
+        extractFromVarNameSimple="" extractType="1" extractTypeAdv="0"
+        extractTypeSimple="1" matchNumber="1" matchNumberAdv="1"
+        matchNumberSimple="1" name="referrer-policy"
+        refererUid="7ea0dcb4-e2c0-43df-8d5e-63473fe3537d"
+        regExp="referrer-policy:(.*?)\r" regExpAdv=""
+        setDefaultValue="true" startsWithSimple="referrer-policy:"
+        template="$1$" templateAdv="$1$"
+        uid="96c203a2-d2e0-4bd5-8ef4-b6d7ac4530ee" xpath="">
+        <variable-extractor-group extract="true" occurs="1" pattern="" type="4"/>
+    </variable-extractor>
+    <variable-extractor assertionOnNoMatch="true"
+        defaultValue="&lt;NOT FOUND>" displayMode="0" endsWithSimple=""
+        extractFromVarName="${_ga}" extractFromVarNameAdv=""
+        extractFromVarNameSimple="${_ga}" extractType="2"
+        extractTypeAdv="0" extractTypeSimple="2" matchNumber="1"
+        matchNumberAdv="1" matchNumberSimple="1" name="ga"
+        refererUid="7ea0dcb4-e2c0-43df-8d5e-63473fe3537d" regExp="(.*)"
+        regExpAdv="" setDefaultValue="true" startsWithSimple=""
+        template="$1$" templateAdv="$1$"
+        uid="64d01dcc-13ad-461b-bbd0-592d1958c3a6" xpath="">
+        <variable-extractor-group extract="true" occurs="1" pattern="" type="4"/>
+    </variable-extractor>
+    <variable-extractor assertionOnNoMatch="true"
+        defaultValue="&lt;NOT FOUND>" displayMode="0" endsWithSimple=""
+        extractFromVarName="${_ga_au}" extractFromVarNameAdv=""
+        extractFromVarNameSimple="${_ga_au}" extractType="2"
+        extractTypeAdv="0" extractTypeSimple="2" matchNumber="1"
+        matchNumberAdv="1" matchNumberSimple="1" name="_ga_au"
+        refererUid="7ea0dcb4-e2c0-43df-8d5e-63473fe3537d" regExp="(.*)"
+        regExpAdv="" setDefaultValue="true" startsWithSimple=""
+        template="$1$" templateAdv="$1$"
+        uid="db0305dd-5d0c-4eab-b116-8c86c842e155" xpath="">
+        <variable-extractor-group extract="true" occurs="1" pattern="" type="4"/>
+    </variable-extractor>
+    <variable-extractor assertionOnNoMatch="true"
+        defaultValue="&lt;NOT FOUND>" displayMode="0" endsWithSimple=""
+        extractFromVarName="${oinfo}" extractFromVarNameAdv=""
+        extractFromVarNameSimple="${oinfo}" extractType="2"
+        extractTypeAdv="0" extractTypeSimple="2" matchNumber="1"
+        matchNumberAdv="1" matchNumberSimple="1" name="oinfo"
+        refererUid="7ea0dcb4-e2c0-43df-8d5e-63473fe3537d" regExp="(.*)"
+        regExpAdv="" setDefaultValue="true" startsWithSimple=""
+        template="$1$" templateAdv="$1$"
+        uid="f3933502-af8c-4285-8a42-df79d879cc5e" xpath="">
+        <variable-extractor-group extract="true" occurs="1" pattern="" type="4"/>
+    </variable-extractor>
+    <variable-extractor assertionOnNoMatch="true"
+        defaultValue="&lt;NOT FOUND>" displayMode="0" endsWithSimple=""
+        extractFromVarName="${ga}" extractFromVarNameAdv=""
+        extractFromVarNameSimple="${ga}" extractType="2"
+        extractTypeAdv="0" extractTypeSimple="2" matchNumber="1"
+        matchNumberAdv="1" matchNumberSimple="1" name="ga"
+        refererUid="7ea0dcb4-e2c0-43df-8d5e-63473fe3537d" regExp="(.*)"
+        regExpAdv="" setDefaultValue="true" startsWithSimple=""
+        template="$1$" templateAdv="$1$"
+        uid="bcc76b47-cbe5-4407-857a-5b29da61f5d7" xpath="">
+        <variable-extractor-group extract="true" occurs="1" pattern="" type="4"/>
+    </variable-extractor>
+    <variable-extractor assertionOnNoMatch="true"
+        defaultValue="&lt;NOT FOUND>" displayMode="0" endsWithSimple=""
+        extractFromVarName="${webact}" extractFromVarNameAdv=""
+        extractFromVarNameSimple="${webact}" extractType="2"
+        extractTypeAdv="0" extractTypeSimple="2" matchNumber="1"
+        matchNumberAdv="1" matchNumberSimple="1" name="webact"
+        refererUid="7ea0dcb4-e2c0-43df-8d5e-63473fe3537d" regExp="(.*)"
+        regExpAdv="" setDefaultValue="true" startsWithSimple=""
+        template="$1$" templateAdv="$1$"
+        uid="eff84090-4544-4f97-bb57-66d5b5b76264" xpath="">
+        <variable-extractor-group extract="true" occurs="1" pattern="" type="4"/>
+    </variable-extractor>
+    <header name="sec-fetch-mode" value="navigate"/>
+    <header name="referer" value="https://test.salesforce.com/"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="cookie" value="BrowserId=xkDZVsEUEe-q9SFK9jh61w; sfdcConsent=1,3,4; _ga=GA1.1.502163927.1734948049; _gcl_au=1.1.979997168.1734948079; rememberUn=false; com.salesforce.LocaleInfo=us; autocomplete=1; oinfo=c3RhdHVzPURFTU8mdHlwZT0yJm9pZD0wMEQ4NTAwMDAwMFJFcmg=; 79eb100099b9a8bf=3:false:.salesforce.com; v0=SFDC%20Network%7C%5BSalesforce.com%20App%5D; lastvaliddriver=SFDC%20Network%7C%5BSalesforce.com%20App%5D; c22=SFDC%20Network; cvtdt=SFDC%20Network; c40=SFDC%20Network; v20=SFDC%3Aus%3Alogin; convertingPageUrl=https%3A%2F%2Fc.salesforce.com%2Flogin-messages%2Fpromos.html; gtm_session_start=1735886329364; gtm_session_threshold=true; sfdc_lv2=KxG83HZfr4S1KdQ7DE6EQOv68hHvbvqAJN7pJl9XK2Rwh2qFcr0X/93qb+Iu0POjBMbMzY8wtoMuhmYDLZ0Zd0blyLV+myHX0=; webact=%7B%22l_vdays%22%3A1%2C%22l_visit%22%3A1735882172983%2C%22session%22%3A1735886787625%2C%22l_search%22%3A%22%22%2C%22l_dtype%22%3A%22SFDC%20Network%22%2C%22l_page%22%3A%22SFDC%3Aus%3Alogin%22%2C%22l_page_url%22%3A%22https%3A%2F%2Fc.salesforce.com%2Flogin-messages%2Fpromos.html%22%2C%22counter%22%3A5%2C%22pv%22%3A4%2C%22f_visit%22%3A1734948046526%2C%22seg%22%3A%22customer%3Aus%22%2C%22customer%22%3A1735817891243%2C%22d%22%3A%2270130000000sUW0%22%7D; OptanonConsent=isGpcEnabled=0&amp;datestamp=Fri+Jan+03+2025+12%3A16%3A28+GMT%2B0530+(India+Standard+Time)&amp;version=202401.2.0&amp;browserGpcFlag=0&amp;isIABGlobal=false&amp;hosts=&amp;consentId=bf096b7f-b553-4965-a084-c19864b8ddb7&amp;interactionCount=1&amp;landingPath=https%3A%2F%2Fc.salesforce.com%2Flogin-messages%2Fpromos.html&amp;groups=1%3A1%2C3%3A1%2C4%3A1; _ga_S6WMKB0ZK3=GS1.1.1735886330.6.1.1735886788.0.0.0; _ga_ESNS60PH6F=GS1.1.1735886330.6.1.1735886788.0.0.0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="purpose" value="prefetch"/>
+    <header name="priority" value="u=0, i"/>
+    <header name="accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="${Content-Security-Policy}" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="iframe"/>
+    <header name="sec-purpose" value="prefetch;prerender"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+server: Apache&#xd;
+last-modified: Thu, 02 Jan 2025 20:50:02 GMT&#xd;
+accept-ranges: bytes&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+x-content-type-options: nosniff&#xd;
+referrer-policy: no-referrer-when-downgrade&#xd;
+x-ua-compatible: IE=9; IE=8; IE=7; IE=EDGE&#xd;
+content-type: text/html&#xd;
+content-length: 3874&#xd;
+strict-transport-security: maxage=16070400; includeSubdomains; preload&#xd;
+expires: Fri, 03 Jan 2025 06:54:25 GMT&#xd;
+cache-control: max-age=0, no-cache, no-store&#xd;
+pragma: no-cache&#xd;
+date: Fri, 03 Jan 2025 06:54:25 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/x-javascript"
+    eTag="&quot;191642e689e8d1a48b942f4eb05a6bd7:1713562580.406175&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Thu, 02 Jan 2025 21:14:36 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/digital/one-trust/core/stable/scripttemplates/otSDKStub.js"
+    path="/digital/one-trust/core/stable/scripttemplates/otSDKStub.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@salesforce-3/%resources%/recorded-artifacts/800b83ee-5da7-4762-ba9c-78afd417f56a.zip"
+    recordedResponseCode="304"
+    refererUid="7ea0dcb4-e2c0-43df-8d5e-63473fe3537d" responseSize="0"
+    serverUid="a.sfdcstatic.com" slaProfileEnabled="false"
+    uid="665edc47-bc8d-4110-b8bd-bade933258e4" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_665edc47-bc8d-4110-b8bd-bade933258e4.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://c.salesforce.com/login-messages/promos.html"/>
+    <header name="if-none-match" value="&quot;191642e689e8d1a48b942f4eb05a6bd7:1713562580.406175&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://c.salesforce.com"/>
+    <header name="priority" value="u=1"/>
+    <header name="accept" value="*/*"/>
+    <header name="if-modified-since" value="Thu, 02 Jan 2025 21:14:36 GMT"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+content-type: application/x-javascript&#xd;
+last-modified: Thu, 02 Jan 2025 21:14:36 GMT&#xd;
+etag: "191642e689e8d1a48b942f4eb05a6bd7:1713562580.406175"&#xd;
+expires: Fri, 03 Jan 2025 06:54:26 GMT&#xd;
+cache-control: max-age=0, no-cache&#xd;
+pragma: no-cache&#xd;
+date: Fri, 03 Jan 2025 06:54:26 GMT&#xd;
+timing-allow-origin: *&#xd;
+access-control-allow-origin: *</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="8"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    eTag="&quot;9f6db3c94478b9f7b6fc06290e368768:1713562586.828314&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Fri, 19 Apr 2024 21:36:26 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/digital/one-trust/core/stable/consent/8e783e8c-0ad0-475d-8fca-4a03afa0a02a/8e783e8c-0ad0-475d-8fca-4a03afa0a02a.json"
+    path="/digital/one-trust/core/stable/consent/8e783e8c-0ad0-475d-8fca-4a03afa0a02a/8e783e8c-0ad0-475d-8fca-4a03afa0a02a.json"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@salesforce-3/%resources%/recorded-artifacts/800b83ee-5da7-4762-ba9c-78afd417f56a.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="a.sfdcstatic.com" slaProfileEnabled="false"
+    uid="3ce3947f-fc9d-48b5-ab5c-67564f4a41c5" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_3ce3947f-fc9d-48b5-ab5c-67564f4a41c5.txt</requestContentFileDescription>
+    <variable-extractor assertionOnNoMatch="false"
+        defaultValue="&lt;NOT FOUND>" displayMode="0"
+        endsWithSimple="&quot;&#xd;" extractFromVarNameAdv=""
+        extractFromVarNameSimple="" extractType="1" extractTypeAdv="0"
+        extractTypeSimple="1" matchNumber="1" matchNumberAdv="1"
+        matchNumberSimple="1" name="etag"
+        refererUid="3ce3947f-fc9d-48b5-ab5c-67564f4a41c5"
+        regExp="etag: &quot;(.*?)&quot;\r" regExpAdv=""
+        setDefaultValue="true" startsWithSimple="etag: &quot;"
+        template="$1$" templateAdv="$1$"
+        uid="51aaa73c-e636-4ca8-b45b-3272d737ef4e" xpath="">
+        <variable-extractor-group extract="true" occurs="1" pattern="" type="4"/>
+    </variable-extractor>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://c.salesforce.com/login-messages/promos.html"/>
+    <header name="if-none-match" value="&quot;9f6db3c94478b9f7b6fc06290e368768:1713562586.828314&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://c.salesforce.com"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="if-modified-since" value="Fri, 19 Apr 2024 21:36:26 GMT"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+last-modified: Fri, 19 Apr 2024 21:36:26 GMT&#xd;
+etag: "9f6db3c94478b9f7b6fc06290e368768:1713562586.828314"&#xd;
+expires: Fri, 03 Jan 2025 06:54:26 GMT&#xd;
+cache-control: max-age=0, no-cache&#xd;
+pragma: no-cache&#xd;
+date: Fri, 03 Jan 2025 06:54:26 GMT&#xd;
+timing-allow-origin: *&#xd;
+content-type: application/json; charset=utf-8&#xd;
+access-control-allow-origin: *</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

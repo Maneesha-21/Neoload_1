@@ -1,0 +1,87 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/sgp2s.sfdc-hvhps/auraCmpDef_15"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@salesforce-3/%resources%/recorded-artifacts/84bdae85-c607-43da-b89a-91a9de2a9d14.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="84bdae85-c607-43da-b89a-91a9de2a9d14">
+    <embedded-action>d9b89c38-d605-49c2-9f66-938db2f319d9</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Thu, 02 Jan 2025 07:57:15 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/sgp2s.sfdc-hvhps/auraCmpDef"
+    path="/sgp2s.sfdc-hvhps/auraCmpDef" postType="6"
+    recordedArtifactZipFileName="team/vus/@salesforce-3/%resources%/recorded-artifacts/84bdae85-c607-43da-b89a-91a9de2a9d14.zip"
+    recordedResponseCode="302" responseSize="0"
+    serverUid="static.lightning.force.com" slaProfileEnabled="false"
+    uid="d9b89c38-d605-49c2-9f66-938db2f319d9" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_d9b89c38-d605-49c2-9f66-938db2f319d9.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="_au"
+        recordRawValue="3851_EwnWNb2qYcJyUNxWyox8LQ" separator="="
+        value="3851_EwnWNb2qYcJyUNxWyox8LQ" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_c"
+        recordRawValue="false" separator="=" value="false" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_density"
+        recordRawValue="VIEW_TWO" separator="=" value="VIEW_TWO" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_dfs"
+        recordRawValue="c" separator="=" value="c" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_ff"
+        recordRawValue="DESKTOP" separator="=" value="DESKTOP" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_l"
+        recordRawValue="true" separator="=" value="true" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_l10n"
+        recordRawValue="en_US" separator="=" value="en_US" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_lrmc"
+        recordRawValue="-386269907" separator="=" value="-386269907" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_style"
+        recordRawValue="403473104" separator="=" value="403473104" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="aura.app"
+        recordRawValue="markup://one:one" separator="="
+        value="markup://one:one" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="aura.mode"
+        recordRawValue="PROD" separator="=" value="PROD" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="_def"
+        recordRawValue="markup://force:inputMultiPicklist" separator="="
+        value="markup://force:inputMultiPicklist" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_uid"
+        recordRawValue="LATEST" separator="=" value="LATEST" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://rhbbank--dev022024.sandbox.lightning.force.com/"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="Geo=Continent: AS Country: IN State: MH City: MUMBAI; inst=APP_85; BrowserId=3uDJirqdEe-GWXe3kUjNdw; CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 302&#xd;
+strict-transport-security: max-age=63072000; includeSubDomains&#xd;
+x-content-type-options: nosniff&#xd;
+content-security-policy: upgrade-insecure-requests&#xd;
+x-robots-tag: none&#xd;
+referrer-policy: origin-when-cross-origin&#xd;
+cache-control: public,max-age=300,stale-while-revalidate=300&#xd;
+origin-trial: AkBgNlDiY3u6JLOlyCHNo+uI//ZsQNGdALGkaqj2TaJPsaytJKhRW2ej+qKdkIs3auzeCWPCYX2AE/jVxzJS0AwAAABaeyJvcmlnaW4iOiJodHRwczovL2ZvcmNlLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHBjZCIsImV4cGlyeSI6MTczNTM0Mzk5OSwiaXNTdWJkb21haW4iOnRydWV9&#xd;
+content-type: text/html;charset=UTF-8&#xd;
+last-modified: Thu, 02 Jan 2025 06:55:33 GMT&#xd;
+location: https://static.lightning.force.com/sgp2s.sfdc-hvhps/auraCmpDef?_au=3851_EwnWNb2qYcJyUNxWyox8LQ&amp;_c=false&amp;_def=markup://force:inputMultiPicklist&amp;_density=VIEW_TWO&amp;_dfs=c&amp;_ff=DESKTOP&amp;_l=false&amp;_l10n=en_US&amp;_lrmc=-386269907&amp;_style=403473104&amp;_uid=390_o4Gzdm2ukwTNhunKtfGsBg&amp;aura.app=markup://one:one&amp;aura.mode=PROD&#xd;
+Content-Length: 0&#xd;
+date: Fri, 03 Jan 2025 06:55:33 GMT&#xd;
+set-cookie: Geo=Continent: AS Country: IN State: MH City: MUMBAI&#xd;
+timing-allow-origin: *&#xd;
+access-control-max-age: 86400&#xd;
+access-control-allow-credentials: false&#xd;
+access-control-allow-headers: *&#xd;
+access-control-allow-methods: GET,POST,OPTIONS,HEAD&#xd;
+access-control-allow-origin: *&#xd;
+akamai-grn: 0.1f5dd217.1735887333.40d20b3</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

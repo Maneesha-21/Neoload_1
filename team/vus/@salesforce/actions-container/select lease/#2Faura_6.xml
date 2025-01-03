@@ -1,0 +1,52 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/aura_6"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@salesforce/%resources%/recorded-artifacts/421b2377-28dc-4fe7-aa71-0779124ac21d.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="421b2377-28dc-4fe7-aa71-0779124ac21d">
+    <embedded-action>fd476648-9743-429e-a0ce-47e905add747</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="image/png"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 04 Apr 2023 21:02:27 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/img/icon/t4v35/standard/lead_120.png"
+    path="/img/icon/t4v35/standard/lead_120.png" postType="6"
+    recordedArtifactZipFileName="team/vus/@salesforce/%resources%/recorded-artifacts/421b2377-28dc-4fe7-aa71-0779124ac21d.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="rhbbank--dev022024.sandbox.my.salesforce.com"
+    slaProfileEnabled="false" uid="fd476648-9743-429e-a0ce-47e905add747" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_20fe2e42-f460-4bb0-b39d-09a6cfbae391.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://rhbbank--dev022024.sandbox.lightning.force.com/"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="BrowserId=xkDZVsEUEe-q9SFK9jh61w; autocomplete=1; CookieConsentPolicy=0:1; LSKey-c$CookieConsentPolicy=0:1; disco=85:${oid}:00585000002AguT:2; sid_Client=${ExtractedVariable_0}; clientSrc=${clientsrc}; oid=${oid}; 79eb100099b9a8bf=3:false:.salesforce.com; sfdc_lv2=${sfdc_lv2}; sid=${oid}!AQEAQNknjalBS8FrDdUIZt5HahzVG8FILjMtMTW6s3V.uHm2rexya1g7JyS_fVjq0JqryVg1XuzAWYgSGZ6DGYO3PoQgudT2"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Thu, 02 Jan 2025 13:38:45 GMT&#xd;
+content-type: image/png&#xd;
+x-content-type-options: nosniff&#xd;
+cache-control: public,max-age=10368000&#xd;
+x-robots-tag: none&#xd;
+last-modified: Tue, 04 Apr 2023 21:02:27 GMT&#xd;
+origin-trial: AqlAE64ET63tVSana3qdVkfkPAgyUhY8GwcehUlpqv067CevOpumeNUlx9YouLkBxJ0CT+EwIb8/SiNbF2NGvwYAAABfeyJvcmlnaW4iOiJodHRwczovL3NhbGVzZm9yY2UuY29tOjQ0MyIsImZlYXR1cmUiOiJUcGNkIiwiZXhwaXJ5IjoxNzM1MzQzOTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZX0=&#xd;
+strict-transport-security: max-age=63072000; includeSubDomains&#xd;
+expires: Fri, 02 May 2025 13:38:45 GMT&#xd;
+referrer-policy: origin-when-cross-origin&#xd;
+server: sfdcedge&#xd;
+x-sfdc-request-id: 767b0ff6a6ff167df290f49bb5b4a751&#xd;
+x-request-id: 767b0ff6a6ff167df290f49bb5b4a751&#xd;
+x-sfdc-edge-cache: MISS</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

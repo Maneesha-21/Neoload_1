@@ -1,0 +1,62 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/_nc_external/system/security/session/SessionTimeServlet"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@salesforce-3/%resources%/recorded-artifacts/5d2b9ae9-db8d-4d66-a956-1ca4eefb5a02.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="5d2b9ae9-db8d-4d66-a956-1ca4eefb5a02">
+    <embedded-action>50a51039-e040-44eb-a952-b7ce3e2aa910</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/_nc_external/system/security/session/SessionTimeServlet"
+    path="/_nc_external/system/security/session/SessionTimeServlet"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@salesforce-3/%resources%/recorded-artifacts/5d2b9ae9-db8d-4d66-a956-1ca4eefb5a02.zip"
+    recordedResponseCode="200" responseSize="31"
+    serverUid="rhbbank--dev022024.sandbox.lightning.force.com"
+    slaProfileEnabled="false" uid="50a51039-e040-44eb-a952-b7ce3e2aa910" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_50a51039-e040-44eb-a952-b7ce3e2aa910</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_50a51039-e040-44eb-a952-b7ce3e2aa910.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="buster"
+        recordRawValue="1735887333504" separator="="
+        value="1735887333504" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://rhbbank--dev022024.sandbox.lightning.force.com/lightning/r/Opportunity/0068500000BxpplAAB/view?ws=%2Flightning%2Fr%2FAF_Application__c%2Fa1O850000005fAbEAI%2Fview"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="inst=APP_85; CookieConsentPolicy=0:1; LSKey-c$CookieConsentPolicy=0:1; sid_Client=${sid_Client}; clientSrc=${ClientSrc}; BrowserId=3uDJirqdEe-GWXe3kUjNdw; SetupDomainProbePassed=true; flexipageLMTLead_Record_Page_AF=1735636574000; sid=${oid}!AQEAQDrdyXp1GaDlYQppD.nxTrW5GwFwoC2fGx9ZpX1mBNXlMI6hOXFnN1FFNUm4yTxUCtaIkUHJreprS3kKMVYxKGT7pS5l; flexipageLMTAF_Application_Record_Page=1735880863000; flexipageLMTAF_Opportunity_Record_Page=1735823042000"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-b3-sampled" value="0"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="x-b3-traceid" value="4e729240c764bb31"/>
+    <header name="x-b3-spanid" value="4e729240c764bb31"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Fri, 03 Jan 2025 06:55:33 GMT&#xd;
+content-type: application/json; charset=UTF-8&#xd;
+content-encoding: gzip&#xd;
+referrer-policy: origin-when-cross-origin&#xd;
+cache-control: private&#xd;
+x-robots-tag: none&#xd;
+origin-trial: AkBgNlDiY3u6JLOlyCHNo+uI//ZsQNGdALGkaqj2TaJPsaytJKhRW2ej+qKdkIs3auzeCWPCYX2AE/jVxzJS0AwAAABaeyJvcmlnaW4iOiJodHRwczovL2ZvcmNlLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHBjZCIsImV4cGlyeSI6MTczNTM0Mzk5OSwiaXNTdWJkb21haW4iOnRydWV9&#xd;
+vary: Accept-Encoding&#xd;
+strict-transport-security: max-age=63072000; includeSubDomains&#xd;
+x-content-type-options: nosniff&#xd;
+server: sfdcedge&#xd;
+x-sfdc-request-id: be702b04a9036f2ad08448bdb5b64057&#xd;
+x-request-id: be702b04a9036f2ad08448bdb5b64057&#xd;
+x-sfdc-edge-cache: MISS</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

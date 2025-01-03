@@ -1,0 +1,68 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/login-messages/promos/_jcr_content.personalization.pagemetadata.v2.json"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@salesforce-1/%resources%/recorded-artifacts/75fb7760-19c5-4a22-825d-da477ccfc25d.zip"
+    slaProfileEnabled="false" thinkTime="575"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="75fb7760-19c5-4a22-825d-da477ccfc25d">
+    <embedded-action>fb0d3e15-770e-47f2-9514-32a4c98e771c</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/login-messages/promos/_jcr_content.personalization.pagemetadata.v2.json"
+    path="/login-messages/promos/_jcr_content.personalization.pagemetadata.v2.json"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@salesforce-1/%resources%/recorded-artifacts/75fb7760-19c5-4a22-825d-da477ccfc25d.zip"
+    recordedResponseCode="200" responseSize="102"
+    serverUid="www.salesforce.com" slaProfileEnabled="false"
+    uid="fb0d3e15-770e-47f2-9514-32a4c98e771c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_fb0d3e15-770e-47f2-9514-32a4c98e771c</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_fb0d3e15-770e-47f2-9514-32a4c98e771c.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://c.salesforce.com/login-messages/promos.html"/>
+    <header name="if-none-match" value="W/&quot;PSA-GRDLybm28O&quot;"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://c.salesforce.com"/>
+    <header name="priority" value="u=0, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="if-modified-since" value="Thu, 02 Jan 2025 21:00:17 GMT"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+server: Apache&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+last-modified: Thu, 02 Jan 2025 21:02:40 GMT&#xd;
+accept-ranges: bytes&#xd;
+x-content-type-options: nosniff&#xd;
+referrer-policy: no-referrer-when-downgrade&#xd;
+etag: W/"PSA-GRDLybm28O"&#xd;
+x-original-content-length: 102&#xd;
+content-encoding: gzip&#xd;
+x-content-type-options: nosniff&#xd;
+content-type: application/json&#xd;
+content-length: 107&#xd;
+cache-control: max-age=3600&#xd;
+expires: Fri, 03 Jan 2025 07:38:48 GMT&#xd;
+date: Fri, 03 Jan 2025 06:38:48 GMT&#xd;
+vary: Accept-Encoding&#xd;
+server-timing: cdn-cache; desc=HIT&#xd;
+server-timing: edge; dur=1&#xd;
+strict-transport-security: max-age=86400&#xd;
+access-control-allow-origin: *&#xd;
+ak-uuid: 0.9832d417.1735886328.55ea8db4&#xd;
+set-cookie: _abck=0AB07903DC4350994932E1BFDAB43F47~-1~YAAQmDLUFzy8KdmTAQAAOFTjKg3wSUb8h2aM2t+SkRPDXPo5uAYSXMeIHn5O9ieVVcBVsuRJOQYFN4LIlYGQiy3vjfZBYnIHtTeM2WI6LkVEeP6BxS0sQfDx8NjHcOgQGq5m6xEBXbfwXWLhuh8klcZEVAHeoB6sNkj+e5NZha5a8WdWKzqMaT6HKfacS5lPkVC2+usjhMG+By32o9rnnyGRGbN+in0VbJEdzPRVRWa6Bux/E/R6Y+LZIZF/pWDzxaPqajU6mGCOqmLJ+hfQ3MJ6fVl7dZc4eVXDMquj69U9UGMitQ8MqJd1vpMJy3dt/+3WUhAsdKxEVjxBD6tRBbJ0T8ysqRdPhHnBg6HRc30Mb5RabZ7Vfx91Y3/DJWWB/z/I1oq4JEo21HhHn+CAluRXp+CQBxTDcwQkvVDXn1XF~-1~-1~-1; Domain=.salesforce.com; Path=/; Expires=Sat, 03 Jan 2026 06:38:48 GMT; Max-Age=31536000; Secure&#xd;
+set-cookie: ak_bmsc=12F7552B059FBFFE3A45B17A3194A180~000000000000000000000000000000~YAAQmDLUFz28KdmTAQAAOFTjKhpFP9l9LqVyRSrK0tJieyC2MHK7EeQBisoAOOpRJM65Mq8CCyLjnzCvj1xp0Hk8dyh36MA5tOcuTukCB/S/palXDgdW47GLwpXeUi6YDSuZRzS5LWNb5O1caVLiiTGDk5vCJ/avoNhSPQVibACDv+uC139mnTXsE5+NJqMUvHy4VaGnRxlQVAYQSvs2rXL6JRF3u7GzJgeRx7nhhIlsmuJOanHg7V2YhzaNK+A5PYZ1XbUjdSniTYcUDYIBG/+2pjvuPMyPn6lw3cBVCp1dmawbBb5ix5JOxqJEMIgDcK2OdA2MDXpBKsKj4rX+3bKqhtXaZf5kktwnTTTbFgVfxF+HgZ1yiiXNm0pqRcB8dbpxK3n8; Domain=.salesforce.com; Path=/; Expires=Fri, 03 Jan 2025 08:38:48 GMT; Max-Age=7200&#xd;
+set-cookie: bm_sz=FC32BA16160D2B6862726FA333B06791~YAAQmDLUFz68KdmTAQAAOFTjKhr/sQ5aH0fy8vo7vFZVoqUF3DHKMPi4GISY/JFKh3TYEqT8N1vBhM1XAvpzgnya1wrXK7RVz6qCtZzYvzDas/qYpcdpyr95YKcPqshHp1F3BNHXiTt+TXvh7Ze2oWpKOnpXaU2GPDL7kbZHmYLE22+2/HbdHiw5eCeBhta/IZ1HTOWn+5iQdtlpk4iP5y1engpM8hS8tPFaOjlALp+yibRDj2xcvusRtBY6MfvuzYNXKNJ4uNteBCcOzsvBEkS8rYedSikrvpEkW2RbOfsT2t6oWKUl3k8yg7YgCCwqe8hhq3tTBPnrTXID7RTy6ISgwpUkZiksHI1+jfZif2GkrwEEsitfnRlmZxY=~3752755~3420217; Domain=.salesforce.com; Path=/; Expires=Fri, 03 Jan 2025 10:38:48 GMT; Max-Age=14400&#xd;
+server-timing: ak_p; desc="1735886328871_399782552_1441435060_62_12408_0_3_15";dur=1</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

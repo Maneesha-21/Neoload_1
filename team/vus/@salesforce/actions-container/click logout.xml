@@ -1,0 +1,10 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="click logout" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="047a2db9-e852-4052-8d78-7e6ebb99c783" weightsEnabled="false">
+    <weighted-embedded-action uid="4aca941c-8606-43a3-84f1-5d0a25afc2e0"/>
+    <weighted-embedded-action uid="56a5b228-0ee2-40e8-b0b3-ab53218b63bc"/>
+    <weighted-embedded-action uid="baaaffba-14bf-47f9-918c-62542bbcb44a"/>
+    <weighted-embedded-action uid="cdc8c157-8c2f-48fd-9830-63377bf9c0d8"/>
+    <weighted-embedded-action uid="c241a139-68de-4233-83a1-587cc7a10de8"/>
+</basic-logical-action-container>

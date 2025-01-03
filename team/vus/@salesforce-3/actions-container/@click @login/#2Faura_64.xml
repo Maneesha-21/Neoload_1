@@ -1,0 +1,84 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/aura_64"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@salesforce-3/%resources%/recorded-artifacts/d8337173-3f27-4a11-bcbe-585e1e6f7496.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="d8337173-3f27-4a11-bcbe-585e1e6f7496">
+    <embedded-action>ae466148-381c-4284-8cdc-6f4007f78682</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/json;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Thu, 04 Jan 2024 07:57:16 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/aura" path="/aura" postCharset="UTF-8"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@salesforce-3/%resources%/recorded-artifacts/d8337173-3f27-4a11-bcbe-585e1e6f7496.zip"
+    recordedResponseCode="200" responseSize="1351"
+    serverUid="rhbbank--dev022024.sandbox.lightning.force.com"
+    slaProfileEnabled="false" uid="ae466148-381c-4284-8cdc-6f4007f78682" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[bWVzc2FnZT0lN0IlMjJhY3Rpb25zJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjIxNjA0JTNCYSUyMiUyQyUyMmRlc2NyaXB0b3IlMjIlM0ElMjJzZXJ2aWNlQ29tcG9uZW50JTNBJTJGJTJGdWkuZm9yY2UuY29tcG9uZW50cy5jb250cm9sbGVycy5maW5nZXJwcmludC5GaW5nZXJwcmludENvbnRyb2xsZXIlMkZBQ1RJT04lMjRsb2dGaW5nZXJwcmludCUyMiUyQyUyMmNhbGxpbmdEZXNjcmlwdG9yJTIyJTNBJTIyVU5LTk9XTiUyMiUyQyUyMnBhcmFtcyUyMiUzQSU3QiUyMmZpbmdlcnByaW50JTIyJTNBJTIyJTdCJTVDJTIycGxhdGZvcm0lNUMlMjIlM0ElNUMlMjJXaW4zMiU1QyUyMiUyQyU1QyUyMm5hdmlnYXRvclVzZXJBZ2VudCU1QyUyMiUzQSU1QyUyMk1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjEzMS4wLjAuMCUyMFNhZmFyaSUyRjUzNy4zNiU1QyUyMiUyQyU1QyUyMndpbmRvdyU1QyUyMiUzQSU1QyUyMjc3MHgxNjAwJTVDJTIyJTJDJTVDJTIyc2NyZWVuJTVDJTIyJTNBJTVDJTIyODEweDE2MDAlNUMlMjIlMkMlNUMlMjJjb2xvciU1QyUyMiUzQSU1QyUyMjI0LTI0JTVDJTIyJTJDJTVDJTIydGltZXpvbmVPZmZzZXQlNUMlMjIlM0ElNUMlMjItMzMwJTVDJTIyJTJDJTVDJTIyY2FudmFzJTVDJTIyJTNBJTVDJTIyMTU0ODg4NTc1NyU1QyUyMiUyQyU1QyUyMnNlc3Npb25TdG9yYWdlJTVDJTIyJTNBJTVDJTIydHJ1ZSU1QyUyMiUyQyU1QyUyMkxvY2FsU3RvcmFnZSU1QyUyMiUzQSU1QyUyMnRydWUlNUMlMjIlMkMlNUMlMjJpbmRleERCJTVDJTIyJTNBJTVDJTIydHJ1ZSU1QyUyMiUyQyU1QyUyMndlYlNvY2tldHMlNUMlMjIlM0ElNUMlMjJ0cnVlJTVDJTIyJTJDJTVDJTIycGx1Z2lucyU1QyUyMiUzQSU1QyUyMlBERiUyMFZpZXdlciUzQVBvcnRhYmxlJTIwRG9jdW1lbnQlMjBGb3JtYXQlNUMlNUNuQ2hyb21lJTIwUERGJTIwVmlld2VyJTNBUG9ydGFibGUlMjBEb2N1bWVudCUyMEZvcm1hdCU1QyU1Q25DaHJvbWl1bSUyMFBERiUyMFZpZXdlciUzQVBvcnRhYmxlJTIwRG9jdW1lbnQlMjBGb3JtYXQlNUMlNUNuTWljcm9zb2Z0JTIwRWRnZSUyMFBERiUyMFZpZXdlciUzQVBvcnRhYmxlJTIwRG9jdW1lbnQlMjBGb3JtYXQlNUMlNUNuV2ViS2l0JTIwYnVpbHQtaW4lMjBQREYlM0FQb3J0YWJsZSUyMERvY3VtZW50JTIwRm9ybWF0JTVDJTVDbiU1QyUyMiUyQyU1QyUyMmRybSU1QyUyMiUzQTElMkMlNUMlMjJsYW5ndWFnZXMlNUMlMjIlM0ElNUMlMjIlNUIlNUMlNUMlNUMlMjJlbi1VUyU1QyU1QyU1QyUyMiUyQyU1QyU1QyU1QyUyMmVuJTVDJTVDJTVDJTIyJTVEJTVDJTIyJTJDJTVDJTIyZm9udHMlNUMlMjIlM0ElNUMlMjJaSC0tMzMzOGYtOCUzRCU1QyUyMiUyQyU1QyUyMmNvZGVjcyU1QyUyMiUzQSU1QyUyMmdJRUlxZ29JUXFvQUtINCUzRCU1QyUyMiUyQyU1QyUyMm1lZGlhRGV2aWNlcyU1QyUyMiUzQSU1QyUyMmF1ZGlvaW5wdXQlM0ElM0ElNUMlNUNuYXVkaW9vdXRwdXQlM0ElM0ElNUMlNUNuJTVDJTIyJTdEJTIyJTJDJTIyZGV0YWlsZWRMb2dnaW5nJTIyJTNBdHJ1ZSU3RCU3RCU1RCU3RCZhdXJhLmNvbnRleHQ9JTdCJTIybW9kZSUyMiUzQSUyMlBST0QlMjIlMkMlMjJmd3VpZCUyMiUzQSUyMmVVTkpialY1Y3pkb2VqQnZSbEE1T0hwRFUxZFBkMXBNVkV4QlFrcEpTbFZGVTI5QmEzbG1jVU5MV2xFNUxqTXlNQzR5JTIyJTJDJTIyYXBwJTIyJTNBJTIyb25lJTNBb25lJTIyJTJDJTIybG9hZGVkJTIyJTNBJTdCJTIyQVBQTElDQVRJT04lNDBtYXJrdXAlM0ElMkYlMkZvbmUlM0FvbmUlMjIlM0ElMjIzODUxX0V3bldOYjJxWWNKeVVOeFd5b3g4TFElMjIlN0QlMkMlMjJkbiUyMiUzQSU1QiU1RCUyQyUyMmdsb2JhbHMlMjIlM0ElN0IlMjJkZW5zaXR5JTIyJTNBJTIyVklFV19UV08lMjIlMkMlMjJhcHBDb250ZXh0SWQlMjIlM0ElMjIwNm1JVzAwMDAwMEwwT1BZQTAlMjIlN0QlMkMlMjJ1YWQlMjIlM0F0cnVlJTdEJmF1cmEucGFnZVVSST0lMkZsaWdodG5pbmclMkZyJTJGT3Bwb3J0dW5pdHklMkYwMDY4NTAwMDAwQnhwcGxBQUIlMkZ2aWV3JTNGd3MlM0QlMjUyRmxpZ2h0bmluZyUyNTJGciUyNTJGQUZfQXBwbGljYXRpb25fX2MlMjUyRmExTzg1MDAwMDAwNWZBYkVBSSUyNTJGdmlldyZhdXJhLnRva2VuPWV5SnViMjVqWlNJNkltSXdRM2xEUkhkSExVTk5WMEZKV2pCRGQxZ3lSazVJUVRaaFUxaFBaMUIzUjJodFluWkJWV0pLZGxsY2RUQXdNMlFpTENKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUlzSW10cFpDSTZJbnRjSW5SY0lqcGNJakF3UkRnMU1EQXdNREF3TURBd01Wd2lMRndpZGx3aU9sd2lNREpIT0RVd01EQXdNREF3TURGa1hDSXNYQ0poWENJNlhDSmpZV2x0WVc1emFXZHVaWEpjSW4waUxDSmpjbWwwSWpwYkltbGhkQ0pkTENKcFlYUWlPakUzTXpVNE9EY3pNamt5TmpBc0ltVjRjQ0k2TUgwJTNELi5iWEVoQ0hBYWxTUlJrMnJmTkV1bzJZcTdZbHpJWHlGUXNNN1dWNWtONGNJJTNE]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_ae466148-381c-4284-8cdc-6f4007f78682</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ae466148-381c-4284-8cdc-6f4007f78682.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="false" name="message"
+        recordRawValue="%7B%22actions%22%3A%5B%7B%22id%22%3A%221604%3Ba%22%2C%22descriptor%22%3A%22serviceComponent%3A%2F%2Fui.force.components.controllers.fingerprint.FingerprintController%2FACTION%24logFingerprint%22%2C%22callingDescriptor%22%3A%22UNKNOWN%22%2C%22params%22%3A%7B%22fingerprint%22%3A%22%7B%5C%22platform%5C%22%3A%5C%22Win32%5C%22%2C%5C%22navigatorUserAgent%5C%22%3A%5C%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F131.0.0.0%20Safari%2F537.36%5C%22%2C%5C%22window%5C%22%3A%5C%22770x1600%5C%22%2C%5C%22screen%5C%22%3A%5C%22810x1600%5C%22%2C%5C%22color%5C%22%3A%5C%2224-24%5C%22%2C%5C%22timezoneOffset%5C%22%3A%5C%22-330%5C%22%2C%5C%22canvas%5C%22%3A%5C%221548885757%5C%22%2C%5C%22sessionStorage%5C%22%3A%5C%22true%5C%22%2C%5C%22LocalStorage%5C%22%3A%5C%22true%5C%22%2C%5C%22indexDB%5C%22%3A%5C%22true%5C%22%2C%5C%22webSockets%5C%22%3A%5C%22true%5C%22%2C%5C%22plugins%5C%22%3A%5C%22PDF%20Viewer%3APortable%20Document%20Format%5C%5CnChrome%20PDF%20Viewer%3APortable%20Document%20Format%5C%5CnChromium%20PDF%20Viewer%3APortable%20Document%20Format%5C%5CnMicrosoft%20Edge%20PDF%20Viewer%3APortable%20Document%20Format%5C%5CnWebKit%20built-in%20PDF%3APortable%20Document%20Format%5C%5Cn%5C%22%2C%5C%22drm%5C%22%3A1%2C%5C%22languages%5C%22%3A%5C%22%5B%5C%5C%5C%22en-US%5C%5C%5C%22%2C%5C%5C%5C%22en%5C%5C%5C%22%5D%5C%22%2C%5C%22fonts%5C%22%3A%5C%22ZH--3338f-8%3D%5C%22%2C%5C%22codecs%5C%22%3A%5C%22gIEIqgoIQqoAKH4%3D%5C%22%2C%5C%22mediaDevices%5C%22%3A%5C%22audioinput%3A%3A%5C%5Cnaudiooutput%3A%3A%5C%5Cn%5C%22%7D%22%2C%22detailedLogging%22%3Atrue%7D%7D%5D%7D"
+        separator="="
+        value="%7B%22actions%22%3A%5B%7B%22id%22%3A%221604%3Ba%22%2C%22descriptor%22%3A%22serviceComponent%3A%2F%2Fui.force.components.controllers.fingerprint.FingerprintController%2FACTION%24logFingerprint%22%2C%22callingDescriptor%22%3A%22UNKNOWN%22%2C%22params%22%3A%7B%22fingerprint%22%3A%22%7B%5C%22platform%5C%22%3A%5C%22Win32%5C%22%2C%5C%22navigatorUserAgent%5C%22%3A%5C%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F131.0.0.0%20Safari%2F537.36%5C%22%2C%5C%22window%5C%22%3A%5C%22770x1600%5C%22%2C%5C%22screen%5C%22%3A%5C%22810x1600%5C%22%2C%5C%22color%5C%22%3A%5C%2224-24%5C%22%2C%5C%22timezoneOffset%5C%22%3A%5C%22-330%5C%22%2C%5C%22canvas%5C%22%3A%5C%221548885757%5C%22%2C%5C%22sessionStorage%5C%22%3A%5C%22true%5C%22%2C%5C%22LocalStorage%5C%22%3A%5C%22true%5C%22%2C%5C%22indexDB%5C%22%3A%5C%22true%5C%22%2C%5C%22webSockets%5C%22%3A%5C%22true%5C%22%2C%5C%22plugins%5C%22%3A%5C%22PDF%20Viewer%3APortable%20Document%20Format%5C%5CnChrome%20PDF%20Viewer%3APortable%20Document%20Format%5C%5CnChromium%20PDF%20Viewer%3APortable%20Document%20Format%5C%5CnMicrosoft%20Edge%20PDF%20Viewer%3APortable%20Document%20Format%5C%5CnWebKit%20built-in%20PDF%3APortable%20Document%20Format%5C%5Cn%5C%22%2C%5C%22drm%5C%22%3A1%2C%5C%22languages%5C%22%3A%5C%22%5B%5C%5C%5C%22en-US%5C%5C%5C%22%2C%5C%5C%5C%22en%5C%5C%5C%22%5D%5C%22%2C%5C%22fonts%5C%22%3A%5C%22ZH--3338f-8%3D%5C%22%2C%5C%22codecs%5C%22%3A%5C%22gIEIqgoIQqoAKH4%3D%5C%22%2C%5C%22mediaDevices%5C%22%3A%5C%22audioinput%3A%3A%5C%5Cnaudiooutput%3A%3A%5C%5Cn%5C%22%7D%22%2C%22detailedLogging%22%3Atrue%7D%7D%5D%7D" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="aura.context"
+        recordRawValue="%7B%22mode%22%3A%22PROD%22%2C%22fwuid%22%3A%22eUNJbjV5czdoejBvRlA5OHpDU1dPd1pMVExBQkpJSlVFU29Ba3lmcUNLWlE5LjMyMC4y%22%2C%22app%22%3A%22one%3Aone%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fone%3Aone%22%3A%223851_EwnWNb2qYcJyUNxWyox8LQ%22%7D%2C%22dn%22%3A%5B%5D%2C%22globals%22%3A%7B%22density%22%3A%22VIEW_TWO%22%2C%22appContextId%22%3A%2206mIW000000L0OPYA0%22%7D%2C%22uad%22%3Atrue%7D"
+        separator="="
+        value="{&quot;mode&quot;:&quot;PROD&quot;,&quot;fwuid&quot;:&quot;eUNJbjV5czdoejBvRlA5OHpDU1dPd1pMVExBQkpJSlVFU29Ba3lmcUNLWlE5LjMyMC4y&quot;,&quot;app&quot;:&quot;one:one&quot;,&quot;loaded&quot;:{&quot;APPLICATION@markup://one:one&quot;:&quot;3851_EwnWNb2qYcJyUNxWyox8LQ&quot;},&quot;dn&quot;:[],&quot;globals&quot;:{&quot;density&quot;:&quot;VIEW_TWO&quot;,&quot;appContextId&quot;:&quot;06mIW000000L0OPYA0&quot;},&quot;uad&quot;:true}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="aura.pageURI"
+        recordRawValue="%2Flightning%2Fr%2FOpportunity%2F0068500000BxpplAAB%2Fview%3Fws%3D%252Flightning%252Fr%252FAF_Application__c%252Fa1O850000005fAbEAI%252Fview"
+        separator="="
+        value="/lightning/r/Opportunity/0068500000BxpplAAB/view?ws=%2Flightning%2Fr%2FAF_Application__c%2Fa1O850000005fAbEAI%2Fview" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="aura.token"
+        recordRawValue="eyJub25jZSI6ImIwQ3lDRHdHLUNNV0FJWjBDd1gyRk5IQTZhU1hPZ1B3R2htYnZBVWJKdllcdTAwM2QiLCJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6IntcInRcIjpcIjAwRDg1MDAwMDAwMDAwMVwiLFwidlwiOlwiMDJHODUwMDAwMDAwMDFkXCIsXCJhXCI6XCJjYWltYW5zaWduZXJcIn0iLCJjcml0IjpbImlhdCJdLCJpYXQiOjE3MzU4ODczMjkyNjAsImV4cCI6MH0%3D..bXEhCHAalSRRk2rfNEuo2Yq7YlzIXyFQsM7WV5kN4cI%3D"
+        separator="="
+        value="eyJub25jZSI6ImIwQ3lDRHdHLUNNV0FJWjBDd1gyRk5IQTZhU1hPZ1B3R2htYnZBVWJKdllcdTAwM2QiLCJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6IntcInRcIjpcIjAwRDg1MDAwMDAwMDAwMVwiLFwidlwiOlwiMDJHODUwMDAwMDAwMDFkXCIsXCJhXCI6XCJjYWltYW5zaWduZXJcIn0iLCJjcml0IjpbImlhdCJdLCJpYXQiOjE3MzU4ODczMjkyNjAsImV4cCI6MH0=..bXEhCHAalSRRk2rfNEuo2Yq7YlzIXyFQsM7WV5kN4cI=" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="r"
+        recordRawValue="63" separator="=" value="63" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="ui-force-components-controllers-fingerprint.Fingerprint.logFingerprint"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://rhbbank--dev022024.sandbox.lightning.force.com/lightning/r/Opportunity/0068500000BxpplAAB/view?ws=%2Flightning%2Fr%2FAF_Application__c%2Fa1O850000005fAbEAI%2Fview"/>
+    <header name="x-sfdc-request-id" value="130161000005482d68"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="inst=APP_85; CookieConsentPolicy=0:1; LSKey-c$CookieConsentPolicy=0:1; sid_Client=${sid_Client}; clientSrc=${ClientSrc}; BrowserId=3uDJirqdEe-GWXe3kUjNdw; SetupDomainProbePassed=true; flexipageLMTLead_Record_Page_AF=1735636574000; sid=${oid}!AQEAQDrdyXp1GaDlYQppD.nxTrW5GwFwoC2fGx9ZpX1mBNXlMI6hOXFnN1FFNUm4yTxUCtaIkUHJreprS3kKMVYxKGT7pS5l; flexipageLMTAF_Application_Record_Page=1735880863000; flexipageLMTAF_Opportunity_Record_Page=1735823042000"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://rhbbank--dev022024.sandbox.lightning.force.com"/>
+    <header name="x-b3-sampled" value="0"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="x-b3-traceid" value="dfba30c321bce4de"/>
+    <header name="x-b3-spanid" value="dfba30c321bce4de"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="application/x-www-form-urlencoded; charset=UTF-8"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Fri, 03 Jan 2025 06:55:41 GMT&#xd;
+content-type: application/json;charset=UTF-8&#xd;
+origin-trial: AkBgNlDiY3u6JLOlyCHNo+uI//ZsQNGdALGkaqj2TaJPsaytJKhRW2ej+qKdkIs3auzeCWPCYX2AE/jVxzJS0AwAAABaeyJvcmlnaW4iOiJodHRwczovL2ZvcmNlLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHBjZCIsImV4cGlyeSI6MTczNTM0Mzk5OSwiaXNTdWJkb21haW4iOnRydWV9&#xd;
+vary: Origin, Accept-Encoding&#xd;
+expires: Thu, 04 Jan 2024 06:55:41 GMT&#xd;
+content-encoding: gzip&#xd;
+cache-control: no-cache,must-revalidate,max-age=0,no-store,private&#xd;
+x-content-type-options: nosniff&#xd;
+server-timing: Total;dur=25&#xd;
+strict-transport-security: max-age=63072000; includeSubDomains&#xd;
+referrer-policy: origin-when-cross-origin&#xd;
+x-robots-tag: none&#xd;
+timing-allow-origin: *&#xd;
+last-modified: Thu, 04 Jan 2024 06:55:41 GMT&#xd;
+server: sfdcedge&#xd;
+x-sfdc-request-id: 130161000005482d68&#xd;
+x-request-id: 130161000005482d68</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

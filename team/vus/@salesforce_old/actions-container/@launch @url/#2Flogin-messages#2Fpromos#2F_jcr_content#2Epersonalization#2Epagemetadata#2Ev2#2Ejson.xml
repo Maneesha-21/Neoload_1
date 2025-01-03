@@ -1,0 +1,107 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/login-messages/promos/_jcr_content.personalization.pagemetadata.v2.json"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@salesforce_old/%resources%/recorded-artifacts/9f815157-390f-4f49-b53f-2703533e292e.zip"
+    slaProfileEnabled="false" thinkTime="843"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="9f815157-390f-4f49-b53f-2703533e292e">
+    <embedded-action>5ac6be7e-7c72-4a26-b7ec-173d91b0f66b</embedded-action>
+    <embedded-action>08374cdd-3caa-4a52-990b-f2e3133c439b</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/login-messages/promos/_jcr_content.personalization.pagemetadata.v2.json"
+    path="/login-messages/promos/_jcr_content.personalization.pagemetadata.v2.json"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@salesforce_old/%resources%/recorded-artifacts/9f815157-390f-4f49-b53f-2703533e292e.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="www.salesforce.com" slaProfileEnabled="false"
+    uid="5ac6be7e-7c72-4a26-b7ec-173d91b0f66b" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_c4956165-c2ab-4157-af7c-721ba50c86da.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://c.salesforce.com/login-messages/promos.html"/>
+    <header name="if-none-match" value="W/&quot;PSA-GRDLybm28O&quot;"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://c.salesforce.com"/>
+    <header name="priority" value="u=0, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="if-modified-since" value="Tue, 31 Dec 2024 16:12:44 GMT"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+content-type: application/json&#xd;
+last-modified: Tue, 31 Dec 2024 16:03:30 GMT&#xd;
+etag: W/"PSA-GRDLybm28O"&#xd;
+cache-control: max-age=3600&#xd;
+expires: Thu, 02 Jan 2025 14:29:19 GMT&#xd;
+date: Thu, 02 Jan 2025 13:29:19 GMT&#xd;
+server-timing: cdn-cache; desc=HIT&#xd;
+server-timing: edge; dur=1&#xd;
+strict-transport-security: max-age=86400&#xd;
+access-control-allow-origin: *&#xd;
+ak-uuid: 0.9832d417.1735824559.3c85dd85&#xd;
+set-cookie: _abck=87C4EA7240AC459674DD296CC565A83A~-1~YAAQmDLUFw94BtmTAQAAnc40Jw1iIaieCnlmybU2czCqVPoYw0Up2rFFB82JKfidVXUCu+tC/3hul3Z8qU9RDEHVOuv9Qpukwjia/5FXnqVpdmuGJXI+HKWA3wQjj3pBXTtAOmugCHF4o4tZWcCZTBP5hLVs5EBeU/5nYI5US6qK8hY0ZqGfhNRybCD9fNrHpxFOsOr+Q3kR+Hzt4Ox4PazmRjF06P1DdIHWyg+vNq4ytAeVMaFwpsqeyqu7lJMqJDvshjL2+CWmdCx1bGRzS2gGXa+KR2qNuupyaKt3/agvSqcK1qKMsiQUHKdu1JhmjonBflXxYnITJmuQ4E1JKccSix6/A6CLVztsiz2FVVErmWqozwkf/rxpK16vqPScFlhjeAClOZHo63jy3kGE36HBBkXnsjmL6aZpttLLOS1j~-1~-1~-1; Domain=.salesforce.com; Path=/; Expires=Fri, 02 Jan 2026 13:29:19 GMT; Max-Age=31536000; Secure&#xd;
+set-cookie: ak_bmsc=7645942348FC301D0930B71DBB79C484~000000000000000000000000000000~YAAQmDLUFxB4BtmTAQAAnc40JxqpnNPl07cngLACgzT3qDb2XVgxq+dsM7kiI1EvmQ3SI5DcaaoCrpTRDHOf7YE1jW85rmUYEMkKiFkCliXtLyYn3tjtmtQWkjM2i9kk8BmUvP9In1XcY9c8o7dCN2RcZ0EtATrTlBIiC8fhpbloKGxZorP8sTrJgS+cN0ntfjSpqzy3HL4azn6uf3r27PKsIJgHZPihq0xSfVGIoVA7nSWwpM0VEdIwzFS1dz2gVFQsOIeuh4bFjdEb8Bpr5LKhtt5RNU/GeOGSL2jK6BCXnnrZoD3003BJnT9yQiTqLTIKRkaohPZHx02XBUE4ANHqN7BwBG8yurPLAxWnuWq8SR47oe3YJHalzRxNtXzVuauFP0AG; Domain=.salesforce.com; Path=/; Expires=Thu, 02 Jan 2025 15:29:19 GMT; Max-Age=7200&#xd;
+set-cookie: bm_sz=DA4F831CA4AD8AD19413B4ACE3F4467A~YAAQmDLUFxF4BtmTAQAAnc40JxpJ5lEZEHnsjEwyOcYiz0giuvCQ9YC58XfAaHXSRzBZV7x5Cxo2xcfkWBlJMLB4UoECoYVMK14/EDy2hTB7/vg55FvGF0z+g3k1PsP2l+DiN+ugVY0CSh4y0T3pygHbax14s3AIGr/plsOoYN0CSJk3DULRHhFvco/RkQHsdIJtwhCeNCLWB03S7h6Wh6V5mGTnuJoJN/aTqH3vI02cJN2Nq4hCeybgspBmOBUMVmmcEI++IKvUDrd80hPJHAtm/mC+FH/D2T8Z/2zGPlTaNY5KSIyKkZL1X3cgtUYVCVkmeqtB0Bf94AA1xdCBltDYwD8WzYM6QipAQKEPAirARJwnfrOZzsiZ6Bg=~4601922~3225156; Domain=.salesforce.com; Path=/; Expires=Thu, 02 Jan 2025 17:29:19 GMT; Max-Age=14400&#xd;
+server-timing: ak_p; desc="1735824559743_399782552_1015405957_49_11212_0_18_15";dur=1</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1"
+    contentType="application/javascript; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/gtm.js" path="/gtm.js" postType="6"
+    recordedArtifactZipFileName="team/vus/@salesforce_old/%resources%/recorded-artifacts/9f815157-390f-4f49-b53f-2703533e292e.zip"
+    recordedResponseCode="200" responseSize="725987"
+    serverUid="www.googletagmanager.com" slaProfileEnabled="false"
+    uid="08374cdd-3caa-4a52-990b-f2e3133c439b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_252b42a4-368e-46d1-ac3c-d3daa9774440</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_252b42a4-368e-46d1-ac3c-d3daa9774440.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="id"
+        recordRawValue="GTM-WRXS6TH" separator="=" value="GTM-WRXS6TH" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="if-modified-since" value="Thu, 02 Jan 2025 09:00:00 GMT"/>
+    <header name="referer" value="https://c.salesforce.com/login-messages/promos.html"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/javascript; charset=UTF-8&#xd;
+access-control-allow-origin: *&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-headers: Cache-Control&#xd;
+content-encoding: gzip&#xd;
+vary: Accept-Encoding&#xd;
+date: Thu, 02 Jan 2025 13:29:19 GMT&#xd;
+expires: Thu, 02 Jan 2025 13:29:19 GMT&#xd;
+cache-control: private, max-age=900&#xd;
+last-modified: Thu, 02 Jan 2025 12:00:00 GMT&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+content-security-policy-report-only: script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ascgcycc:1080:0&#xd;
+cross-origin-opener-policy-report-only: same-origin; report-to=coop_reporting&#xd;
+report-to: {"group":"coop_reporting","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/ascgcycc:1080:0"}],}&#xd;
+server: Google Tag Manager&#xd;
+content-length: 166322&#xd;
+x-xss-protection: 0&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

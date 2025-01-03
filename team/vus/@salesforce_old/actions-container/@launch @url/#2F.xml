@@ -1,0 +1,52 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@salesforce_old/%resources%/recorded-artifacts/fbaddbf8-535e-4fd4-be00-6f91029ed0cd.zip"
+    slaProfileEnabled="false" thinkTime="10525"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="fbaddbf8-535e-4fd4-be00-6f91029ed0cd">
+    <embedded-action>32f1c7d5-7a3f-48d8-922a-f9f8e149987b</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/" path="/" postType="6"
+    recordedArtifactZipFileName="team/vus/@salesforce_old/%resources%/recorded-artifacts/fbaddbf8-535e-4fd4-be00-6f91029ed0cd.zip"
+    recordedResponseCode="200" responseSize="11666"
+    serverUid="test.salesforce.com" slaProfileEnabled="false"
+    uid="32f1c7d5-7a3f-48d8-922a-f9f8e149987b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_20bfda24-9826-4f4c-a832-40930c378a41.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_20bfda24-9826-4f4c-a832-40930c378a41.txt</requestContentFileDescription>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=xkDZVsEUEe-q9SFK9jh61w; sfdcConsent=1,3,4; _ga=GA1.1.502163927.1734948049; _gcl_au=1.1.979997168.1734948079; rememberUn=false; com.salesforce.LocaleInfo=us; oinfo=c3RhdHVzPURFTU8mdHlwZT02Jm9pZD0wMERFYTAwMDAwNldNd1A=; sfdc_lv2=KxG83HOHPc1GgPsxC+2JiX0lAk3c6zo7GUryr94LK08alg6r0lLHX0c9sj0JqATe4=; autocomplete=1; session=1735816614809; webact=%7B%22l_vdays%22%3A10%2C%22l_visit%22%3A1735024600520%2C%22session%22%3A1735817891243%2C%22l_search%22%3A%22%22%2C%22l_dtype%22%3A%22%22%2C%22l_page%22%3A%22SFDC%3Aus%3Alogin%22%2C%22l_page_url%22%3A%22https%3A%2F%2Fc.salesforce.com%2Flogin-messages%2Fpromos.html%22%2C%22counter%22%3A2%2C%22pv%22%3A1%2C%22f_visit%22%3A1734948046526%2C%22seg%22%3A%22customer%3Aus%22%2C%22customer%22%3A1735817891243%7D; OptanonConsent=isGpcEnabled=0&amp;datestamp=Thu+Jan+02+2025+17%3A08%3A11+GMT%2B0530+(India+Standard+Time)&amp;version=202401.2.0&amp;browserGpcFlag=0&amp;isIABGlobal=false&amp;hosts=&amp;consentId=bf096b7f-b553-4965-a084-c19864b8ddb7&amp;interactionCount=1&amp;landingPath=https%3A%2F%2Fc.salesforce.com%2Flogin-messages%2Fpromos.html&amp;groups=1%3A1%2C3%3A1%2C4%3A1; _ga_S6WMKB0ZK3=GS1.1.1735817892.3.0.1735817892.0.0.0; _ga_ESNS60PH6F=GS1.1.1735817892.3.0.1735817892.0.0.0"/>
+    <header name="Host" value="test.salesforce.com"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="document"/>
+    <header name="Sec-Fetch-Mode" value="navigate"/>
+    <header name="Sec-Fetch-Site" value="none"/>
+    <header name="Sec-Fetch-User" value="?1"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Thu, 02 Jan 2025 13:29:17 GMT&#xd;
+Strict-Transport-Security: max-age=63072000; includeSubDomains&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Content-Security-Policy: upgrade-insecure-requests&#xd;
+Referrer-Policy: origin-when-cross-origin&#xd;
+Cache-Control: no-cache,must-revalidate,max-age=0,no-store,private&#xd;
+Origin-Trial: AqlAE64ET63tVSana3qdVkfkPAgyUhY8GwcehUlpqv067CevOpumeNUlx9YouLkBxJ0CT+EwIb8/SiNbF2NGvwYAAABfeyJvcmlnaW4iOiJodHRwczovL3NhbGVzZm9yY2UuY29tOjQ0MyIsImZlYXR1cmUiOiJUcGNkIiwiZXhwaXJ5IjoxNzM1MzQzOTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZX0=&#xd;
+Content-Type: text/html; charset=UTF-8&#xd;
+Content-Security-Policy: frame-ancestors 'none'&#xd;
+X-FRAME-OPTIONS: DENY&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Encoding: gzip&#xd;
+Transfer-Encoding: chunked</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

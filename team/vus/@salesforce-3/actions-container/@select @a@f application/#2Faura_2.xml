@@ -1,0 +1,133 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/aura_2"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@salesforce-3/%resources%/recorded-artifacts/49afc6d0-560f-4322-8269-5fcb6b851a2b.zip"
+    slaProfileEnabled="false" thinkTime="54"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="49afc6d0-560f-4322-8269-5fcb6b851a2b">
+    <embedded-action>d6bfbc2d-8063-4df9-92f1-197de734fb86</embedded-action>
+    <embedded-action>83b6fa5b-3614-45e6-814a-ba1082d2b653</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/json;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Thu, 04 Jan 2024 07:57:31 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/aura" path="/aura" postCharset="UTF-8"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@salesforce-3/%resources%/recorded-artifacts/49afc6d0-560f-4322-8269-5fcb6b851a2b.zip"
+    recordedResponseCode="200" responseSize="9914"
+    serverUid="rhbbank--dev022024.sandbox.lightning.force.com"
+    slaProfileEnabled="false" uid="d6bfbc2d-8063-4df9-92f1-197de734fb86" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[bWVzc2FnZT0lN0IlMjJhY3Rpb25zJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjIyODkyJTNCYSUyMiUyQyUyMmRlc2NyaXB0b3IlMjIlM0ElMjJzZXJ2aWNlQ29tcG9uZW50JTNBJTJGJTJGdWkuZ2xvYmFsLmNvbXBvbmVudHMub25lLmFjdGlvbnNNYW5hZ2VyLkFjdGlvbnNNYW5hZ2VyQ29udHJvbGxlciUyRkFDVElPTiUyNGhhbmRsZUFjdGlvbiUyMiUyQyUyMmNhbGxpbmdEZXNjcmlwdG9yJTIyJTNBJTIyVU5LTk9XTiUyMiUyQyUyMnBhcmFtcyUyMiUzQSU3QiUyMmJhdGNoJTIyJTNBJTVCJTdCJTIycmVjb3JkSWQlMjIlM0FudWxsJTJDJTIyY29udGV4dCUyMiUzQSUyMkxJU1RfVklFVyUyMiUyQyUyMmVudGl0eUFwaU5hbWUlMjIlM0ElMjJMZWFkJTIyJTJDJTIycmVjb3JkJTIyJTNBbnVsbCUyQyUyMmxpc3ROYW1lT3JJZCUyMiUzQSUyMjAwQjg1MDAwMDAwU1VaUkVBNCUyMiUyQyUyMnNpemUlMjIlM0E1JTJDJTIybWF4V2lkdGglMjIlM0EtMSUyQyUyMmFjdGlvblR5cGVzJTIyJTNBJTVCJTVEJTJDJTIyYnVsa2VkQWN0aW9uJTIyJTNBZmFsc2UlMkMlMjJhY3Rpb25OYW1lcyUyMiUzQSU1QiU1RCUyQyUyMmVuYWJsZUFjdGlvbnNDb25maWd1cmF0aW9uJTIyJTNBZmFsc2UlMkMlMjJpc0xBQlByZXZpZXclMjIlM0FmYWxzZSUyQyUyMmFjdGlvbnNSZXF1ZXN0SWQlMjIlM0EyJTdEJTVEJTdEJTdEJTVEJTdEJmF1cmEuY29udGV4dD0lN0IlMjJtb2RlJTIyJTNBJTIyUFJPRCUyMiUyQyUyMmZ3dWlkJTIyJTNBJTIyZVVOSmJqVjVjemRvZWpCdlJsQTVPSHBEVTFkUGQxcE1WRXhCUWtwSlNsVkZVMjlCYTNsbWNVTkxXbEU1TGpNeU1DNHklMjIlMkMlMjJhcHAlMjIlM0ElMjJvbmUlM0FvbmUlMjIlMkMlMjJsb2FkZWQlMjIlM0ElN0IlMjJBUFBMSUNBVElPTiU0MG1hcmt1cCUzQSUyRiUyRm9uZSUzQW9uZSUyMiUzQSUyMjM4NTFfRXduV05iMnFZY0p5VU54V3lveDhMUSUyMiU3RCUyQyUyMmRuJTIyJTNBJTVCJTVEJTJDJTIyZ2xvYmFscyUyMiUzQSU3QiUyMmRlbnNpdHklMjIlM0ElMjJWSUVXX1RXTyUyMiUyQyUyMmFwcENvbnRleHRJZCUyMiUzQSUyMjA2bUlXMDAwMDAwTDBPUFlBMCUyMiU3RCUyQyUyMnVhZCUyMiUzQXRydWUlN0QmYXVyYS5wYWdlVVJJPSUyRmxpZ2h0bmluZyUyRm8lMkZMZWFkJTJGbGlzdCUzRmZpbHRlck5hbWUlM0RfX1JlY2VudCZhdXJhLnRva2VuPWV5SnViMjVqWlNJNkltSXdRM2xEUkhkSExVTk5WMEZKV2pCRGQxZ3lSazVJUVRaaFUxaFBaMUIzUjJodFluWkJWV0pLZGxsY2RUQXdNMlFpTENKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUlzSW10cFpDSTZJbnRjSW5SY0lqcGNJakF3UkRnMU1EQXdNREF3TURBd01Wd2lMRndpZGx3aU9sd2lNREpIT0RVd01EQXdNREF3TURGa1hDSXNYQ0poWENJNlhDSmpZV2x0WVc1emFXZHVaWEpjSW4waUxDSmpjbWwwSWpwYkltbGhkQ0pkTENKcFlYUWlPakUzTXpVNE9EY3pNamt5TmpBc0ltVjRjQ0k2TUgwJTNELi5iWEVoQ0hBYWxTUlJrMnJmTkV1bzJZcTdZbHpJWHlGUXNNN1dWNWtONGNJJTNE]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_d6bfbc2d-8063-4df9-92f1-197de734fb86</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d6bfbc2d-8063-4df9-92f1-197de734fb86.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="message"
+        recordRawValue="%7B%22actions%22%3A%5B%7B%22id%22%3A%222892%3Ba%22%2C%22descriptor%22%3A%22serviceComponent%3A%2F%2Fui.global.components.one.actionsManager.ActionsManagerController%2FACTION%24handleAction%22%2C%22callingDescriptor%22%3A%22UNKNOWN%22%2C%22params%22%3A%7B%22batch%22%3A%5B%7B%22recordId%22%3Anull%2C%22context%22%3A%22LIST_VIEW%22%2C%22entityApiName%22%3A%22Lead%22%2C%22record%22%3Anull%2C%22listNameOrId%22%3A%2200B85000000SUZREA4%22%2C%22size%22%3A5%2C%22maxWidth%22%3A-1%2C%22actionTypes%22%3A%5B%5D%2C%22bulkedAction%22%3Afalse%2C%22actionNames%22%3A%5B%5D%2C%22enableActionsConfiguration%22%3Afalse%2C%22isLABPreview%22%3Afalse%2C%22actionsRequestId%22%3A2%7D%5D%7D%7D%5D%7D"
+        separator="="
+        value="{&quot;actions&quot;:[{&quot;id&quot;:&quot;2892;a&quot;,&quot;descriptor&quot;:&quot;serviceComponent://ui.global.components.one.actionsManager.ActionsManagerController/ACTION$handleAction&quot;,&quot;callingDescriptor&quot;:&quot;UNKNOWN&quot;,&quot;params&quot;:{&quot;batch&quot;:[{&quot;recordId&quot;:null,&quot;context&quot;:&quot;LIST_VIEW&quot;,&quot;entityApiName&quot;:&quot;Lead&quot;,&quot;record&quot;:null,&quot;listNameOrId&quot;:&quot;00B85000000SUZREA4&quot;,&quot;size&quot;:5,&quot;maxWidth&quot;:-1,&quot;actionTypes&quot;:[],&quot;bulkedAction&quot;:false,&quot;actionNames&quot;:[],&quot;enableActionsConfiguration&quot;:false,&quot;isLABPreview&quot;:false,&quot;actionsRequestId&quot;:2}]}}]}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="aura.context"
+        recordRawValue="%7B%22mode%22%3A%22PROD%22%2C%22fwuid%22%3A%22eUNJbjV5czdoejBvRlA5OHpDU1dPd1pMVExBQkpJSlVFU29Ba3lmcUNLWlE5LjMyMC4y%22%2C%22app%22%3A%22one%3Aone%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fone%3Aone%22%3A%223851_EwnWNb2qYcJyUNxWyox8LQ%22%7D%2C%22dn%22%3A%5B%5D%2C%22globals%22%3A%7B%22density%22%3A%22VIEW_TWO%22%2C%22appContextId%22%3A%2206mIW000000L0OPYA0%22%7D%2C%22uad%22%3Atrue%7D"
+        separator="="
+        value="{&quot;mode&quot;:&quot;PROD&quot;,&quot;fwuid&quot;:&quot;eUNJbjV5czdoejBvRlA5OHpDU1dPd1pMVExBQkpJSlVFU29Ba3lmcUNLWlE5LjMyMC4y&quot;,&quot;app&quot;:&quot;one:one&quot;,&quot;loaded&quot;:{&quot;APPLICATION@markup://one:one&quot;:&quot;3851_EwnWNb2qYcJyUNxWyox8LQ&quot;},&quot;dn&quot;:[],&quot;globals&quot;:{&quot;density&quot;:&quot;VIEW_TWO&quot;,&quot;appContextId&quot;:&quot;06mIW000000L0OPYA0&quot;},&quot;uad&quot;:true}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="aura.pageURI"
+        recordRawValue="%2Flightning%2Fo%2FLead%2Flist%3FfilterName%3D__Recent"
+        separator="=" value="/lightning/o/Lead/list?filterName=__Recent" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="aura.token"
+        recordRawValue="eyJub25jZSI6ImIwQ3lDRHdHLUNNV0FJWjBDd1gyRk5IQTZhU1hPZ1B3R2htYnZBVWJKdllcdTAwM2QiLCJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6IntcInRcIjpcIjAwRDg1MDAwMDAwMDAwMVwiLFwidlwiOlwiMDJHODUwMDAwMDAwMDFkXCIsXCJhXCI6XCJjYWltYW5zaWduZXJcIn0iLCJjcml0IjpbImlhdCJdLCJpYXQiOjE3MzU4ODczMjkyNjAsImV4cCI6MH0%3D..bXEhCHAalSRRk2rfNEuo2Yq7YlzIXyFQsM7WV5kN4cI%3D"
+        separator="="
+        value="eyJub25jZSI6ImIwQ3lDRHdHLUNNV0FJWjBDd1gyRk5IQTZhU1hPZ1B3R2htYnZBVWJKdllcdTAwM2QiLCJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6IntcInRcIjpcIjAwRDg1MDAwMDAwMDAwMVwiLFwidlwiOlwiMDJHODUwMDAwMDAwMDFkXCIsXCJhXCI6XCJjYWltYW5zaWduZXJcIn0iLCJjcml0IjpbImlhdCJdLCJpYXQiOjE3MzU4ODczMjkyNjAsImV4cCI6MH0=..bXEhCHAalSRRk2rfNEuo2Yq7YlzIXyFQsM7WV5kN4cI=" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="r"
+        recordRawValue="73" separator="=" value="73" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="ui-global-components-one-actionsManager.ActionsManager.handleAction"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://rhbbank--dev022024.sandbox.lightning.force.com/lightning/o/Lead/list?filterName=__Recent"/>
+    <header name="x-sfdc-request-id" value="4950400000091955b6"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="inst=APP_85; CookieConsentPolicy=0:1; LSKey-c$CookieConsentPolicy=0:1; sid_Client=${sid_Client}; clientSrc=${ClientSrc}; BrowserId=3uDJirqdEe-GWXe3kUjNdw; SetupDomainProbePassed=true; flexipageLMTLead_Record_Page_AF=1735636574000; sid=${oid}!AQEAQDrdyXp1GaDlYQppD.nxTrW5GwFwoC2fGx9ZpX1mBNXlMI6hOXFnN1FFNUm4yTxUCtaIkUHJreprS3kKMVYxKGT7pS5l; flexipageLMTAF_Application_Record_Page=1735880863000; flexipageLMTAF_Opportunity_Record_Page=1735823042000"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://rhbbank--dev022024.sandbox.lightning.force.com"/>
+    <header name="x-b3-sampled" value="0"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="x-b3-traceid" value="f6206e638f53bba0"/>
+    <header name="x-b3-spanid" value="958e8f2fe03dcd20"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="application/x-www-form-urlencoded; charset=UTF-8"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Fri, 03 Jan 2025 06:56:17 GMT&#xd;
+content-type: application/json;charset=UTF-8&#xd;
+referrer-policy: origin-when-cross-origin&#xd;
+last-modified: Thu, 04 Jan 2024 06:56:17 GMT&#xd;
+cache-control: no-cache,must-revalidate,max-age=0,no-store,private&#xd;
+origin-trial: AkBgNlDiY3u6JLOlyCHNo+uI//ZsQNGdALGkaqj2TaJPsaytJKhRW2ej+qKdkIs3auzeCWPCYX2AE/jVxzJS0AwAAABaeyJvcmlnaW4iOiJodHRwczovL2ZvcmNlLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHBjZCIsImV4cGlyeSI6MTczNTM0Mzk5OSwiaXNTdWJkb21haW4iOnRydWV9&#xd;
+vary: Origin, Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+server-timing: Total;dur=109&#xd;
+timing-allow-origin: *&#xd;
+x-robots-tag: none&#xd;
+expires: Thu, 04 Jan 2024 06:56:17 GMT&#xd;
+strict-transport-security: max-age=63072000; includeSubDomains&#xd;
+x-content-type-options: nosniff&#xd;
+server: sfdcedge&#xd;
+x-sfdc-request-id: 4950400000091955b6&#xd;
+x-request-id: 4950400000091955b6</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Thu, 02 Jan 2025 07:57:31 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/auraFW/resources/aura/images/smallcheck-checked.png"
+    path="/auraFW/resources/aura/images/smallcheck-checked.png"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@salesforce-3/%resources%/recorded-artifacts/49afc6d0-560f-4322-8269-5fcb6b851a2b.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="rhbbank--dev022024.sandbox.lightning.force.com"
+    slaProfileEnabled="false" uid="83b6fa5b-3614-45e6-814a-ba1082d2b653" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_83b6fa5b-3614-45e6-814a-ba1082d2b653.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://rhbbank--dev022024.sandbox.lightning.force.com/l/%7B%22mode%22%3A%22PROD%22%2C%22dfs%22%3A%22c%22%2C%22app%22%3A%22one%3Aone%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fone%3Aone%22%3A%223851_EwnWNb2qYcJyUNxWyox8LQ%22%7D%2C%22styleContext%22%3A%7B%22c%22%3A%22webkit%22%2C%22x%22%3A%5B%223%22%2C%22SLDS%22%2C%22isDesktop%22%5D%2C%22tokens%22%3A%5B%22markup%3A%2F%2Fforce%3AsldsTokens%22%2C%22markup%3A%2F%2Fforce%3Abase%22%2C%22markup%3A%2F%2Fforce%3AoneSalesforceSkin%22%2C%22markup%3A%2F%2Fforce%3AlevelOneDensity%22%2C%22markup%3A%2F%2Fforce%3AthemeTokens%22%2C%22markup%3A%2F%2Fforce%3AformFactorLarge%22%5D%2C%22tuid%22%3A%22p69UUewMWmtaUkqWZsToCA%22%2C%22cuid%22%3A403473104%7D%2C%22pathPrefix%22%3A%22%22%7D/app.css?3="/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="inst=APP_85; CookieConsentPolicy=0:1; LSKey-c$CookieConsentPolicy=0:1; sid_Client=${sid_Client}; clientSrc=${ClientSrc}; BrowserId=3uDJirqdEe-GWXe3kUjNdw; SetupDomainProbePassed=true; flexipageLMTLead_Record_Page_AF=1735636574000; sid=${oid}!AQEAQDrdyXp1GaDlYQppD.nxTrW5GwFwoC2fGx9ZpX1mBNXlMI6hOXFnN1FFNUm4yTxUCtaIkUHJreprS3kKMVYxKGT7pS5l; flexipageLMTAF_Application_Record_Page=1735880863000; flexipageLMTAF_Opportunity_Record_Page=1735823042000"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Fri, 03 Jan 2025 06:56:18 GMT&#xd;
+content-type: image/png&#xd;
+referrer-policy: origin-when-cross-origin&#xd;
+last-modified: Thu, 02 Jan 2025 06:56:18 GMT&#xd;
+cache-control: public,max-age=86400&#xd;
+origin-trial: AkBgNlDiY3u6JLOlyCHNo+uI//ZsQNGdALGkaqj2TaJPsaytJKhRW2ej+qKdkIs3auzeCWPCYX2AE/jVxzJS0AwAAABaeyJvcmlnaW4iOiJodHRwczovL2ZvcmNlLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHBjZCIsImV4cGlyeSI6MTczNTM0Mzk5OSwiaXNTdWJkb21haW4iOnRydWV9&#xd;
+vary: Origin, Accept-Encoding&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+server-timing: Total;dur=12&#xd;
+timing-allow-origin: *&#xd;
+x-robots-tag: none&#xd;
+expires: Sat, 03 May 2025 06:56:18 GMT&#xd;
+strict-transport-security: max-age=63072000; includeSubDomains&#xd;
+x-content-type-options: nosniff&#xd;
+server: sfdcedge&#xd;
+x-sfdc-request-id: de6fd51c722f762c5cfc5029b08b25a5&#xd;
+x-request-id: de6fd51c722f762c5cfc5029b08b25a5&#xd;
+x-sfdc-edge-cache: MISS</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

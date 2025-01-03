@@ -1,0 +1,6 @@
+<http-server hostname="rhbbank--dev022024.sandbox.file.force.com"
+    port="443" ssl="true"
+    uid="rhbbank--dev022024.sandbox.file.force.com"
+    urlrewriting-argument-name="" urlrewriting-enabled="false"
+    urlrewriting-path-extension="false"
+    urlrewriting-path-not-equals="false" urlrewriting-path-separator=";"/>

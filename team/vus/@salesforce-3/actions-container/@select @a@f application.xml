@@ -1,0 +1,10 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Select AF application" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="23d3e939-0969-450b-ae13-6895fa300eb2" weightsEnabled="false">
+    <weighted-embedded-action uid="1344301c-cde5-45ed-9eef-e7ad7119a4bc"/>
+    <weighted-embedded-action uid="e3e96f24-e333-4238-9838-102e7599cedd"/>
+    <weighted-embedded-action uid="49afc6d0-560f-4322-8269-5fcb6b851a2b"/>
+    <weighted-embedded-action uid="f25b78ed-d55a-4740-9662-34aedebf2f50"/>
+    <weighted-embedded-action uid="c45dd747-4361-4f8a-8f1f-5bb3e42a3687"/>
+</basic-logical-action-container>

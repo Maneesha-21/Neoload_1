@@ -1,0 +1,10 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Click login" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="726062f6-85c1-4dbc-ae24-f2e7e87d4dab" weightsEnabled="false">
+    <weighted-embedded-action uid="953815b1-56ac-4e45-b3b2-e10cf5090fd3"/>
+    <weighted-embedded-action uid="4bffaedb-5443-457d-b26a-80f9ffc5b9e4"/>
+    <weighted-embedded-action uid="84843511-34c7-482e-8809-2415ae218c0d"/>
+    <weighted-embedded-action uid="3dfe8c6e-9dd4-4783-93f8-1c9658efeafe"/>
+    <weighted-embedded-action uid="6c605137-fb89-452e-85a1-33c471b51023"/>
+</basic-logical-action-container>

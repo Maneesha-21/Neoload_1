@@ -1,0 +1,54 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/v1/pages/ChVDaHJvbWUvMTMxLjAuNjc3OC4yMDUSGQm_qq0mL8VhOhIFDcFJrkghtFcsqOt4eLs="
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@salesforce_old/%resources%/recorded-artifacts/8ae1a338-12f5-40c1-86b4-1c6261e447a0.zip"
+    slaProfileEnabled="false" thinkTime="302"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="8ae1a338-12f5-40c1-86b4-1c6261e447a0">
+    <embedded-action>c0aa39f1-a306-42a3-b38a-305cfd81baf8</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/plain"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/v1/pages/ChVDaHJvbWUvMTMxLjAuNjc3OC4yMDUSGQm_qq0mL8VhOhIFDcFJrkghtFcsqOt4eLs="
+    path="/v1/pages/ChVDaHJvbWUvMTMxLjAuNjc3OC4yMDUSGQm_qq0mL8VhOhIFDcFJrkghtFcsqOt4eLs="
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@salesforce_old/%resources%/recorded-artifacts/8ae1a338-12f5-40c1-86b4-1c6261e447a0.zip"
+    recordedResponseCode="200" responseSize="16"
+    serverUid="content-autofill.googleapis.com"
+    slaProfileEnabled="false" uid="c0aa39f1-a306-42a3-b38a-305cfd81baf8" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_840f09d6-a302-4ebc-b6bf-33f584cb48b6</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_840f09d6-a302-4ebc-b6bf-33f584cb48b6.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="alt"
+        recordRawValue="proto" separator="=" value="proto" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="x-goog-encode-response-if-executable" value="base64"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-goog-api-key" value="AIzaSyA2KlwBX3mkFo30om9LUFYQhpqLoa_BNhE"/>
+    <header name="x-client-data" value="CI22yQEIorbJAQipncoBCNrgygEIkqHLAQiKo8sBCIWgzQEIx8/OAQjSz84BCO3VzgEI+9fOAQiS2M4BGPbJzQEYz9XOAQ=="/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+cache-control: private,max-age=604800&#xd;
+content-type: text/plain&#xd;
+x-goog-safety-encoding: base64&#xd;
+x-goog-safety-content-type: application/x-protobuf&#xd;
+vary: Origin&#xd;
+vary: X-Origin&#xd;
+vary: Referer&#xd;
+content-encoding: gzip&#xd;
+date: Thu, 02 Jan 2025 13:30:43 GMT&#xd;
+server: ESF&#xd;
+content-length: 36&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: nosniff</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

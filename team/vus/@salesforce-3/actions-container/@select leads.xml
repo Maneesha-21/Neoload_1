@@ -1,0 +1,12 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Select leads" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="9a5ace46-abc2-4d05-a7af-db1e7259b950" weightsEnabled="false">
+    <weighted-embedded-action uid="ab310983-ff21-4778-b847-f7aa6be739d6"/>
+    <weighted-embedded-action uid="0a9915bb-6717-47e5-aaf1-714591a811c2"/>
+    <weighted-embedded-action uid="fa0e292b-562f-4191-88d7-ac418716c37d"/>
+    <weighted-embedded-action uid="ec0f20d3-9877-48ab-bc2b-dbfb0abc770b"/>
+    <weighted-embedded-action uid="09b99f78-f36a-4456-b929-512f427a0e84"/>
+    <weighted-embedded-action uid="98fc8fd1-6c86-47f4-af95-98c121bf2341"/>
+    <weighted-embedded-action uid="4c3fd2df-0c9d-4865-985c-0fca2ddc13d7"/>
+</basic-logical-action-container>

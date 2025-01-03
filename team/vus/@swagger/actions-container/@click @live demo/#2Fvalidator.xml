@@ -1,0 +1,48 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/validator"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@swagger/%resources%/recorded-artifacts/00853cd2-2a36-49a8-b728-8840f5f736e7.zip"
+    slaProfileEnabled="false" thinkTime="655"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="00853cd2-2a36-49a8-b728-8840f5f736e7">
+    <embedded-action>fff2a34c-9811-458d-8c84-890d1e6ebb6b</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="image/png"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/validator" path="/validator" postType="6"
+    recordedArtifactZipFileName="team/vus/@swagger/%resources%/recorded-artifacts/00853cd2-2a36-49a8-b728-8840f5f736e7.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="validator.swagger.io" slaProfileEnabled="false"
+    uid="fff2a34c-9811-458d-8c84-890d1e6ebb6b" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_fff2a34c-9811-458d-8c84-890d1e6ebb6b.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="url"
+        recordRawValue="https%3A%2F%2Fpetstore.swagger.io%2Fv2%2Fswagger.json"
+        separator="="
+        value="https://petstore.swagger.io/v2/swagger.json" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://petstore.swagger.io/"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="_conv_r=s%3Awww.google.com*m%3Aorganic*t%3A*c%3A; _gid=GA1.2.1535029883.1735894184; cookiehub=eyJhbnN3ZXJlZCI6dHJ1ZSwicmV2aXNpb24iOjEsImRudCI6ZmFsc2UsImFsbG93U2FsZSI6dHJ1ZSwiaW1wbGljdCI6ZmFsc2UsInJlZ2lvbiI6IkM0IiwidG9rZW4iOiI4azV6dXhIdmx6OGo3RkI1dGxicUgyUmFMemNxWm1RTlJWZjdUSkNSbWJkQ2VSNExUaHdrNTliRkVNSW02RXBIIiwidGltZXN0YW1wIjoiMjAyNS0wMS0wM1QwODo0OTo0NS45MzBaIiwiYWxsQWxsb3dlZCI6dHJ1ZSwiY2F0ZWdvcmllcyI6W10sInZlbmRvcnMiOltdLCJzZXJ2aWNlcyI6W10sImltcGxpY2l0IjpmYWxzZX0=; _gcl_au=1.1.1054163578.1735894186; sessionUTM=eyJ1dG1fc291cmNlIjoiZ29vZ2xlIiwidXRtX21lZGl1bSI6Im9yZ2FuaWMifQ==; mktLP=c3dhZ2dlci5pby90b29scy9zd2FnZ2VyLXVpLw==; _mkto_trk=id:800-TIV-782&amp;token:_mch-swagger.io-83e6ad7a7f6a61cc603e41999eb5af6d; _uetsid=f289afe0c9af11ef8731e9af86a87335; _uetvid=f289ca00c9af11ef9fa27dd0228f1343; _ga_MHRZ11T9PF=GS1.1.1735894182.1.1.1735894566.44.0.0; _ga_BB2BQ52LHM=GS1.1.1735894183.1.1.1735894566.44.0.0; _conv_v=vi%3A1*sc%3A1*cs%3A1735894182*fs%3A1735894182*pv%3A15; _conv_s=si%3A1*sh%3A1735894182016-0.31070157910757956*pv%3A15; _ga=GA1.1.1915762189.1735894183; _ga_F11FV1HQ2E=GS1.1.1735894391.1.1.1735894582.0.0.0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Fri, 03 Jan 2025 08:56:24 GMT&#xd;
+content-type: image/png&#xd;
+content-length: 1599&#xd;
+access-control-allow-origin: *&#xd;
+access-control-allow-methods: GET, POST, DELETE, PUT&#xd;
+access-control-allow-headers: Content-Type, api_key, Authorization&#xd;
+access-control-expose-headers: Content-Disposition&#xd;
+server: Jetty(9.4.53.v20231009)</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

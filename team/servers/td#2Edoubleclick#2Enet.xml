@@ -1,0 +1,4 @@
+<http-server hostname="td.doubleclick.net" port="443" ssl="true"
+    uid="td.doubleclick.net" urlrewriting-argument-name="fledge"
+    urlrewriting-enabled="true" urlrewriting-path-extension="true"
+    urlrewriting-path-not-equals="false" urlrewriting-path-separator=";"/>

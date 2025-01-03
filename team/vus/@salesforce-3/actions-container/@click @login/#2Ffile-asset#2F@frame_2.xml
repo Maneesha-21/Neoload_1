@@ -1,0 +1,57 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/file-asset/Frame_2"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@salesforce-3/%resources%/recorded-artifacts/34bf3f6e-de03-40ab-a303-285167e85518.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="34bf3f6e-de03-40ab-a303-285167e85518">
+    <embedded-action>e7a3431b-92b4-4db2-a523-4d9f5307df7e</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/file-asset/Frame_3" path="/file-asset/Frame_3"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@salesforce-3/%resources%/recorded-artifacts/34bf3f6e-de03-40ab-a303-285167e85518.zip"
+    recordedResponseCode="404" responseSize="0"
+    serverUid="rhbbank--dev022024.sandbox.file.force.com"
+    slaProfileEnabled="false" uid="e7a3431b-92b4-4db2-a523-4d9f5307df7e" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_e7a3431b-92b4-4db2-a523-4d9f5307df7e.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="v"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="height"
+        recordRawValue="80" separator="=" value="80" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="width"
+        recordRawValue="400" separator="=" value="400" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://rhbbank--dev022024.sandbox.lightning.force.com/"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="CookieConsentPolicy=0:1; LSKey-c$CookieConsentPolicy=0:1; sid_Client=${sid_Client}; clientSrc=${ClientSrc}; inst=APP_85; BrowserId=3uDJirqdEe-GWXe3kUjNdw; sid=${oid}!AQEAQItTiJmnM_6gbhAoxR_9i1u18Ey.MfTQomVIpSMSJn1Vh1TMkdKkpp2yXZ_EbtgU9Gi04_dFcJLyQ33GwmdjWIBHquzn"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 404&#xd;
+date: Fri, 03 Jan 2025 06:55:31 GMT&#xd;
+content-type: text/html; charset=UTF-8&#xd;
+Content-Length: 0&#xd;
+x-robots-tag: none&#xd;
+referrer-policy: origin-when-cross-origin&#xd;
+strict-transport-security: max-age=63072000; includeSubDomains&#xd;
+cache-control: no-cache,must-revalidate,max-age=0,no-store,private&#xd;
+origin-trial: AkBgNlDiY3u6JLOlyCHNo+uI//ZsQNGdALGkaqj2TaJPsaytJKhRW2ej+qKdkIs3auzeCWPCYX2AE/jVxzJS0AwAAABaeyJvcmlnaW4iOiJodHRwczovL2ZvcmNlLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHBjZCIsImV4cGlyeSI6MTczNTM0Mzk5OSwiaXNTdWJkb21haW4iOnRydWV9&#xd;
+x-content-type-options: nosniff&#xd;
+expires: Thu, 01 Jan 1970 00:00:00 GMT&#xd;
+content-security-policy: upgrade-insecure-requests&#xd;
+server: sfdcedge&#xd;
+x-sfdc-request-id: da01a2cf102908e6b38d5084d40df352&#xd;
+x-request-id: da01a2cf102908e6b38d5084d40df352</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="click Sunu" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="4fc6c8a8-93f0-4d32-8266-e7550e632566" weightsEnabled="false">
+    <weighted-embedded-action uid="bc585f69-f1ec-423e-bb5d-a17d07fac544"/>
+</basic-logical-action-container>

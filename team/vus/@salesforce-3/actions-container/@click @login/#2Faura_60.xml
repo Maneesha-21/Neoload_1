@@ -1,0 +1,215 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/aura_60"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@salesforce-3/%resources%/recorded-artifacts/d75e1b7c-8211-47c6-974a-8fa085f44b6c.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="d75e1b7c-8211-47c6-974a-8fa085f44b6c">
+    <embedded-action>1d777030-7021-4bd2-934f-3c386462e06d</embedded-action>
+    <embedded-action>7968ed7e-f71c-4110-8969-d753d925c2c5</embedded-action>
+    <embedded-action>fd8bb99f-a476-451b-b3ab-17c55037e705</embedded-action>
+    <embedded-action>583ecd41-ab69-49a4-bca5-db1b9af2a399</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/json;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Thu, 04 Jan 2024 07:57:15 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/aura" path="/aura" postCharset="UTF-8"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@salesforce-3/%resources%/recorded-artifacts/d75e1b7c-8211-47c6-974a-8fa085f44b6c.zip"
+    recordedResponseCode="200" responseSize="14901"
+    serverUid="rhbbank--dev022024.sandbox.lightning.force.com"
+    slaProfileEnabled="false" uid="1d777030-7021-4bd2-934f-3c386462e06d" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[bWVzc2FnZT0lN0IlMjJhY3Rpb25zJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjIxNTQ2JTNCYSUyMiUyQyUyMmRlc2NyaXB0b3IlMjIlM0ElMjJzZXJ2aWNlQ29tcG9uZW50JTNBJTJGJTJGdWkuZ2xvYmFsLmNvbXBvbmVudHMub25lLm9uYm9hcmRpbmdNYW5hZ2VyLk9uYm9hcmRpbmdNYW5hZ2VyQ29udHJvbGxlciUyRkFDVElPTiUyNGdldEluaXREYXRhJTIyJTJDJTIyY2FsbGluZ0Rlc2NyaXB0b3IlMjIlM0ElMjJVTktOT1dOJTIyJTJDJTIycGFyYW1zJTIyJTNBJTdCJTIyY29udGV4dHVhbERhdGElMjIlM0ElN0IlMjJhcHBDb250YWluZXIlMjIlM0ElMjJMaWdodG5pbmclMjIlMkMlMjJhcHBEZWZpbml0aW9uJTIyJTNBJTdCJTIyaWQlMjIlM0ElMjIwNm1JVzAwMDAwMEwwT1BZQTAlMjIlMkMlMjJkZXZlbG9wZXJOYW1lJTIyJTNBJTIyTGVhZF9NYW5hZ2VtZW50X1N5c3RlbSUyMiU3RCUyQyUyMmF1dGhvcmluZ01vZGUlMjIlM0FmYWxzZSUyQyUyMnBhZ2VSZWZlcmVuY2UlMjIlM0ElN0IlMjJ0eXBlJTIyJTNBJTIyc3RhbmRhcmRfX3JlY29yZFBhZ2UlMjIlMkMlMjJhdHRyaWJ1dGVzJTIyJTNBJTdCJTIycmVjb3JkSWQlMjIlM0ElMjIwMDY4NTAwMDAwQnhwcGxBQUIlMjIlMkMlMjJvYmplY3RBcGlOYW1lJTIyJTNBJTIyT3Bwb3J0dW5pdHklMjIlMkMlMjJhY3Rpb25OYW1lJTIyJTNBJTIydmlldyUyMiU3RCUyQyUyMnN0YXRlJTIyJTNBJTdCJTIyd3MlMjIlM0ElMjIlMkZsaWdodG5pbmclMkZyJTJGQUZfQXBwbGljYXRpb25fX2MlMkZhMU84NTAwMDAwMDVmQWJFQUklMkZ2aWV3JTIyJTdEJTdEJTJDJTIydmlzaWJpbGl0eVN0YXRlJTIyJTNBJTIydmlzaWJsZSUyMiU3RCU3RCU3RCU1RCU3RCZhdXJhLmNvbnRleHQ9JTdCJTIybW9kZSUyMiUzQSUyMlBST0QlMjIlMkMlMjJmd3VpZCUyMiUzQSUyMmVVTkpialY1Y3pkb2VqQnZSbEE1T0hwRFUxZFBkMXBNVkV4QlFrcEpTbFZGVTI5QmEzbG1jVU5MV2xFNUxqTXlNQzR5JTIyJTJDJTIyYXBwJTIyJTNBJTIyb25lJTNBb25lJTIyJTJDJTIybG9hZGVkJTIyJTNBJTdCJTIyQVBQTElDQVRJT04lNDBtYXJrdXAlM0ElMkYlMkZvbmUlM0FvbmUlMjIlM0ElMjIzODUxX0V3bldOYjJxWWNKeVVOeFd5b3g4TFElMjIlN0QlMkMlMjJkbiUyMiUzQSU1QiU1RCUyQyUyMmdsb2JhbHMlMjIlM0ElN0IlMjJkZW5zaXR5JTIyJTNBJTIyVklFV19UV08lMjIlMkMlMjJhcHBDb250ZXh0SWQlMjIlM0ElMjIwNm1JVzAwMDAwMEwwT1BZQTAlMjIlN0QlMkMlMjJ1YWQlMjIlM0F0cnVlJTdEJmF1cmEucGFnZVVSST0lMkZsaWdodG5pbmclMkZyJTJGT3Bwb3J0dW5pdHklMkYwMDY4NTAwMDAwQnhwcGxBQUIlMkZ2aWV3JTNGd3MlM0QlMjUyRmxpZ2h0bmluZyUyNTJGciUyNTJGQUZfQXBwbGljYXRpb25fX2MlMjUyRmExTzg1MDAwMDAwNWZBYkVBSSUyNTJGdmlldyZhdXJhLnRva2VuPWV5SnViMjVqWlNJNkltSXdRM2xEUkhkSExVTk5WMEZKV2pCRGQxZ3lSazVJUVRaaFUxaFBaMUIzUjJodFluWkJWV0pLZGxsY2RUQXdNMlFpTENKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUlzSW10cFpDSTZJbnRjSW5SY0lqcGNJakF3UkRnMU1EQXdNREF3TURBd01Wd2lMRndpZGx3aU9sd2lNREpIT0RVd01EQXdNREF3TURGa1hDSXNYQ0poWENJNlhDSmpZV2x0WVc1emFXZHVaWEpjSW4waUxDSmpjbWwwSWpwYkltbGhkQ0pkTENKcFlYUWlPakUzTXpVNE9EY3pNamt5TmpBc0ltVjRjQ0k2TUgwJTNELi5iWEVoQ0hBYWxTUlJrMnJmTkV1bzJZcTdZbHpJWHlGUXNNN1dWNWtONGNJJTNE]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_1d777030-7021-4bd2-934f-3c386462e06d</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1d777030-7021-4bd2-934f-3c386462e06d.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="message"
+        recordRawValue="%7B%22actions%22%3A%5B%7B%22id%22%3A%221546%3Ba%22%2C%22descriptor%22%3A%22serviceComponent%3A%2F%2Fui.global.components.one.onboardingManager.OnboardingManagerController%2FACTION%24getInitData%22%2C%22callingDescriptor%22%3A%22UNKNOWN%22%2C%22params%22%3A%7B%22contextualData%22%3A%7B%22appContainer%22%3A%22Lightning%22%2C%22appDefinition%22%3A%7B%22id%22%3A%2206mIW000000L0OPYA0%22%2C%22developerName%22%3A%22Lead_Management_System%22%7D%2C%22authoringMode%22%3Afalse%2C%22pageReference%22%3A%7B%22type%22%3A%22standard__recordPage%22%2C%22attributes%22%3A%7B%22recordId%22%3A%220068500000BxpplAAB%22%2C%22objectApiName%22%3A%22Opportunity%22%2C%22actionName%22%3A%22view%22%7D%2C%22state%22%3A%7B%22ws%22%3A%22%2Flightning%2Fr%2FAF_Application__c%2Fa1O850000005fAbEAI%2Fview%22%7D%7D%2C%22visibilityState%22%3A%22visible%22%7D%7D%7D%5D%7D"
+        separator="="
+        value="{&quot;actions&quot;:[{&quot;id&quot;:&quot;1546;a&quot;,&quot;descriptor&quot;:&quot;serviceComponent://ui.global.components.one.onboardingManager.OnboardingManagerController/ACTION$getInitData&quot;,&quot;callingDescriptor&quot;:&quot;UNKNOWN&quot;,&quot;params&quot;:{&quot;contextualData&quot;:{&quot;appContainer&quot;:&quot;Lightning&quot;,&quot;appDefinition&quot;:{&quot;id&quot;:&quot;06mIW000000L0OPYA0&quot;,&quot;developerName&quot;:&quot;Lead_Management_System&quot;},&quot;authoringMode&quot;:false,&quot;pageReference&quot;:{&quot;type&quot;:&quot;standard__recordPage&quot;,&quot;attributes&quot;:{&quot;recordId&quot;:&quot;0068500000BxpplAAB&quot;,&quot;objectApiName&quot;:&quot;Opportunity&quot;,&quot;actionName&quot;:&quot;view&quot;},&quot;state&quot;:{&quot;ws&quot;:&quot;/lightning/r/AF_Application__c/a1O850000005fAbEAI/view&quot;}},&quot;visibilityState&quot;:&quot;visible&quot;}}}]}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="aura.context"
+        recordRawValue="%7B%22mode%22%3A%22PROD%22%2C%22fwuid%22%3A%22eUNJbjV5czdoejBvRlA5OHpDU1dPd1pMVExBQkpJSlVFU29Ba3lmcUNLWlE5LjMyMC4y%22%2C%22app%22%3A%22one%3Aone%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fone%3Aone%22%3A%223851_EwnWNb2qYcJyUNxWyox8LQ%22%7D%2C%22dn%22%3A%5B%5D%2C%22globals%22%3A%7B%22density%22%3A%22VIEW_TWO%22%2C%22appContextId%22%3A%2206mIW000000L0OPYA0%22%7D%2C%22uad%22%3Atrue%7D"
+        separator="="
+        value="{&quot;mode&quot;:&quot;PROD&quot;,&quot;fwuid&quot;:&quot;eUNJbjV5czdoejBvRlA5OHpDU1dPd1pMVExBQkpJSlVFU29Ba3lmcUNLWlE5LjMyMC4y&quot;,&quot;app&quot;:&quot;one:one&quot;,&quot;loaded&quot;:{&quot;APPLICATION@markup://one:one&quot;:&quot;3851_EwnWNb2qYcJyUNxWyox8LQ&quot;},&quot;dn&quot;:[],&quot;globals&quot;:{&quot;density&quot;:&quot;VIEW_TWO&quot;,&quot;appContextId&quot;:&quot;06mIW000000L0OPYA0&quot;},&quot;uad&quot;:true}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="aura.pageURI"
+        recordRawValue="%2Flightning%2Fr%2FOpportunity%2F0068500000BxpplAAB%2Fview%3Fws%3D%252Flightning%252Fr%252FAF_Application__c%252Fa1O850000005fAbEAI%252Fview"
+        separator="="
+        value="/lightning/r/Opportunity/0068500000BxpplAAB/view?ws=%2Flightning%2Fr%2FAF_Application__c%2Fa1O850000005fAbEAI%2Fview" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="aura.token"
+        recordRawValue="eyJub25jZSI6ImIwQ3lDRHdHLUNNV0FJWjBDd1gyRk5IQTZhU1hPZ1B3R2htYnZBVWJKdllcdTAwM2QiLCJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6IntcInRcIjpcIjAwRDg1MDAwMDAwMDAwMVwiLFwidlwiOlwiMDJHODUwMDAwMDAwMDFkXCIsXCJhXCI6XCJjYWltYW5zaWduZXJcIn0iLCJjcml0IjpbImlhdCJdLCJpYXQiOjE3MzU4ODczMjkyNjAsImV4cCI6MH0%3D..bXEhCHAalSRRk2rfNEuo2Yq7YlzIXyFQsM7WV5kN4cI%3D"
+        separator="="
+        value="eyJub25jZSI6ImIwQ3lDRHdHLUNNV0FJWjBDd1gyRk5IQTZhU1hPZ1B3R2htYnZBVWJKdllcdTAwM2QiLCJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6IntcInRcIjpcIjAwRDg1MDAwMDAwMDAwMVwiLFwidlwiOlwiMDJHODUwMDAwMDAwMDFkXCIsXCJhXCI6XCJjYWltYW5zaWduZXJcIn0iLCJjcml0IjpbImlhdCJdLCJpYXQiOjE3MzU4ODczMjkyNjAsImV4cCI6MH0=..bXEhCHAalSRRk2rfNEuo2Yq7YlzIXyFQsM7WV5kN4cI=" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="r"
+        recordRawValue="59" separator="=" value="59" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="ui-global-components-one-onboardingManager.OnboardingManager.getInitData"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://rhbbank--dev022024.sandbox.lightning.force.com/lightning/r/Opportunity/0068500000BxpplAAB/view?ws=%2Flightning%2Fr%2FAF_Application__c%2Fa1O850000005fAbEAI%2Fview"/>
+    <header name="x-sfdc-request-id" value="5482200000502a9aa7"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="inst=APP_85; CookieConsentPolicy=0:1; LSKey-c$CookieConsentPolicy=0:1; sid_Client=${sid_Client}; clientSrc=${ClientSrc}; BrowserId=3uDJirqdEe-GWXe3kUjNdw; SetupDomainProbePassed=true; flexipageLMTLead_Record_Page_AF=1735636574000; sid=${oid}!AQEAQDrdyXp1GaDlYQppD.nxTrW5GwFwoC2fGx9ZpX1mBNXlMI6hOXFnN1FFNUm4yTxUCtaIkUHJreprS3kKMVYxKGT7pS5l; flexipageLMTAF_Application_Record_Page=1735880863000; flexipageLMTAF_Opportunity_Record_Page=1735823042000"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://rhbbank--dev022024.sandbox.lightning.force.com"/>
+    <header name="x-b3-sampled" value="0"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="x-b3-traceid" value="90c44d53b93bd6c4"/>
+    <header name="x-b3-spanid" value="90c44d53b93bd6c4"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="application/x-www-form-urlencoded; charset=UTF-8"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Fri, 03 Jan 2025 06:55:33 GMT&#xd;
+content-type: application/json;charset=UTF-8&#xd;
+content-encoding: gzip&#xd;
+cache-control: no-cache,must-revalidate,max-age=0,no-store,private&#xd;
+origin-trial: AkBgNlDiY3u6JLOlyCHNo+uI//ZsQNGdALGkaqj2TaJPsaytJKhRW2ej+qKdkIs3auzeCWPCYX2AE/jVxzJS0AwAAABaeyJvcmlnaW4iOiJodHRwczovL2ZvcmNlLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHBjZCIsImV4cGlyeSI6MTczNTM0Mzk5OSwiaXNTdWJkb21haW4iOnRydWV9&#xd;
+vary: Origin, Accept-Encoding&#xd;
+strict-transport-security: max-age=63072000; includeSubDomains&#xd;
+referrer-policy: origin-when-cross-origin&#xd;
+timing-allow-origin: *&#xd;
+expires: Thu, 04 Jan 2024 06:55:33 GMT&#xd;
+server-timing: Total;dur=98&#xd;
+x-content-type-options: nosniff&#xd;
+x-robots-tag: none&#xd;
+last-modified: Thu, 04 Jan 2024 06:55:33 GMT&#xd;
+server: sfdcedge&#xd;
+x-sfdc-request-id: 5482200000502a9aa7&#xd;
+x-request-id: 5482200000502a9aa7</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/json;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/cometd/40.0" path="/cometd/40.0" postType="4"
+    recordedArtifactZipFileName="team/vus/@salesforce-3/%resources%/recorded-artifacts/d75e1b7c-8211-47c6-974a-8fa085f44b6c.zip"
+    recordedResponseCode="200" responseSize="147"
+    serverUid="rhbbank--dev022024.sandbox.lightning.force.com"
+    slaProfileEnabled="false" uid="7968ed7e-f71c-4110-8969-d753d925c2c5" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_7968ed7e-f71c-4110-8969-d753d925c2c5</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_7968ed7e-f71c-4110-8969-d753d925c2c5.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://rhbbank--dev022024.sandbox.lightning.force.com/jslibrary/1734719174000/streaming-v2/CometdWorkerJs.js"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="t=!0vaFlJER5UsrfIGrfKp9YI2pARkJi5YS8O/yCf8GE+6HiX+CvWWacnC3MzF+OXsuC3USJWIP3jamDQ==; BAYEUX_BROWSER=cb587w19rlja2y1wm5fddn9w1460; sfproxy-id=&quot;4db86a821629cbfc&quot;; inst=APP_85; CookieConsentPolicy=0:1; LSKey-c$CookieConsentPolicy=0:1; sid_Client=${sid_Client}; clientSrc=${ClientSrc}; BrowserId=3uDJirqdEe-GWXe3kUjNdw; SetupDomainProbePassed=true; flexipageLMTLead_Record_Page_AF=1735636574000; sid=${oid}!AQEAQDrdyXp1GaDlYQppD.nxTrW5GwFwoC2fGx9ZpX1mBNXlMI6hOXFnN1FFNUm4yTxUCtaIkUHJreprS3kKMVYxKGT7pS5l; flexipageLMTAF_Application_Record_Page=1735880863000; flexipageLMTAF_Opportunity_Record_Page=1735823042000"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://rhbbank--dev022024.sandbox.lightning.force.com"/>
+    <header name="content-type" value="application/json;charset=UTF-8"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Fri, 03 Jan 2025 06:55:33 GMT&#xd;
+content-type: application/json;charset=UTF-8&#xd;
+content-length: 147&#xd;
+set-cookie: 79eb100099b9a8bf=3:false:.salesforce.com; domain=.salesforce.com; path=/; secure; SameSite=None&#xd;
+x-salesforce-no-proxy: true&#xd;
+referrer-policy: origin-when-cross-origin&#xd;
+cache-control: private&#xd;
+x-robots-tag: none&#xd;
+origin-trial: AkBgNlDiY3u6JLOlyCHNo+uI//ZsQNGdALGkaqj2TaJPsaytJKhRW2ej+qKdkIs3auzeCWPCYX2AE/jVxzJS0AwAAABaeyJvcmlnaW4iOiJodHRwczovL2ZvcmNlLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHBjZCIsImV4cGlyeSI6MTczNTM0Mzk5OSwiaXNTdWJkb21haW4iOnRydWV9&#xd;
+vary: Accept-Encoding&#xd;
+strict-transport-security: max-age=63072000; includeSubDomains&#xd;
+x-content-type-options: nosniff&#xd;
+server: sfdcedge&#xd;
+x-sfdc-request-id: 6f8565c4ceaccd6b23f22ecef810b0b0&#xd;
+x-request-id: 6f8565c4ceaccd6b23f22ecef810b0b0</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[[{"id":"2","channel":"/meta/subscribe","subscription":"/s/notifications/notification","clientId":"lud5g3v6oxau7xp5ptadsokkhd84","ext":{"replay":{"/s/notifications/notification":-1}}}]]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/json;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/cometd/40.0" path="/cometd/40.0" postType="4"
+    recordedArtifactZipFileName="team/vus/@salesforce-3/%resources%/recorded-artifacts/d75e1b7c-8211-47c6-974a-8fa085f44b6c.zip"
+    recordedResponseCode="200" responseSize="159"
+    serverUid="rhbbank--dev022024.sandbox.lightning.force.com"
+    slaProfileEnabled="false" uid="fd8bb99f-a476-451b-b3ab-17c55037e705" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_fd8bb99f-a476-451b-b3ab-17c55037e705</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_fd8bb99f-a476-451b-b3ab-17c55037e705.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://rhbbank--dev022024.sandbox.lightning.force.com/jslibrary/1734719174000/streaming-v2/CometdWorkerJs.js"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="t=!0vaFlJER5UsrfIGrfKp9YI2pARkJi5YS8O/yCf8GE+6HiX+CvWWacnC3MzF+OXsuC3USJWIP3jamDQ==; BAYEUX_BROWSER=cb587w19rlja2y1wm5fddn9w1460; sfproxy-id=&quot;4db86a821629cbfc&quot;; inst=APP_85; CookieConsentPolicy=0:1; LSKey-c$CookieConsentPolicy=0:1; sid_Client=${sid_Client}; clientSrc=${ClientSrc}; BrowserId=3uDJirqdEe-GWXe3kUjNdw; SetupDomainProbePassed=true; flexipageLMTLead_Record_Page_AF=1735636574000; sid=${oid}!AQEAQDrdyXp1GaDlYQppD.nxTrW5GwFwoC2fGx9ZpX1mBNXlMI6hOXFnN1FFNUm4yTxUCtaIkUHJreprS3kKMVYxKGT7pS5l; flexipageLMTAF_Application_Record_Page=1735880863000; flexipageLMTAF_Opportunity_Record_Page=1735823042000"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://rhbbank--dev022024.sandbox.lightning.force.com"/>
+    <header name="content-type" value="application/json;charset=UTF-8"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Fri, 03 Jan 2025 06:55:33 GMT&#xd;
+content-type: application/json;charset=UTF-8&#xd;
+content-length: 159&#xd;
+x-salesforce-no-proxy: true&#xd;
+referrer-policy: origin-when-cross-origin&#xd;
+cache-control: private&#xd;
+x-robots-tag: none&#xd;
+origin-trial: AkBgNlDiY3u6JLOlyCHNo+uI//ZsQNGdALGkaqj2TaJPsaytJKhRW2ej+qKdkIs3auzeCWPCYX2AE/jVxzJS0AwAAABaeyJvcmlnaW4iOiJodHRwczovL2ZvcmNlLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHBjZCIsImV4cGlyeSI6MTczNTM0Mzk5OSwiaXNTdWJkb21haW4iOnRydWV9&#xd;
+vary: Accept-Encoding&#xd;
+strict-transport-security: max-age=63072000; includeSubDomains&#xd;
+x-content-type-options: nosniff&#xd;
+server: sfdcedge&#xd;
+x-sfdc-request-id: 90ae68f62e82f667aa9813b3965d5b16&#xd;
+x-request-id: 90ae68f62e82f667aa9813b3965d5b16</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[[{"id":"4","channel":"/meta/connect","connectionType":"long-polling","advice":{"timeout":0},"clientId":"lud5g3v6oxau7xp5ptadsokkhd84"}]]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/json;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/cometd/40.0" path="/cometd/40.0" postType="4"
+    recordedArtifactZipFileName="team/vus/@salesforce-3/%resources%/recorded-artifacts/d75e1b7c-8211-47c6-974a-8fa085f44b6c.zip"
+    recordedResponseCode="200" responseSize="144"
+    serverUid="rhbbank--dev022024.sandbox.lightning.force.com"
+    slaProfileEnabled="false" uid="583ecd41-ab69-49a4-bca5-db1b9af2a399" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_583ecd41-ab69-49a4-bca5-db1b9af2a399</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_583ecd41-ab69-49a4-bca5-db1b9af2a399.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://rhbbank--dev022024.sandbox.lightning.force.com/jslibrary/1734719174000/streaming-v2/CometdWorkerJs.js"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="t=!0vaFlJER5UsrfIGrfKp9YI2pARkJi5YS8O/yCf8GE+6HiX+CvWWacnC3MzF+OXsuC3USJWIP3jamDQ==; BAYEUX_BROWSER=cb587w19rlja2y1wm5fddn9w1460; sfproxy-id=&quot;4db86a821629cbfc&quot;; inst=APP_85; CookieConsentPolicy=0:1; LSKey-c$CookieConsentPolicy=0:1; sid_Client=${sid_Client}; clientSrc=${ClientSrc}; BrowserId=3uDJirqdEe-GWXe3kUjNdw; SetupDomainProbePassed=true; flexipageLMTLead_Record_Page_AF=1735636574000; sid=${oid}!AQEAQDrdyXp1GaDlYQppD.nxTrW5GwFwoC2fGx9ZpX1mBNXlMI6hOXFnN1FFNUm4yTxUCtaIkUHJreprS3kKMVYxKGT7pS5l; flexipageLMTAF_Application_Record_Page=1735880863000; flexipageLMTAF_Opportunity_Record_Page=1735823042000"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://rhbbank--dev022024.sandbox.lightning.force.com"/>
+    <header name="content-type" value="application/json;charset=UTF-8"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Fri, 03 Jan 2025 06:55:34 GMT&#xd;
+content-type: application/json;charset=UTF-8&#xd;
+content-length: 144&#xd;
+referrer-policy: origin-when-cross-origin&#xd;
+x-content-type-options: nosniff&#xd;
+x-salesforce-no-proxy: true&#xd;
+set-cookie: 79eb100099b9a8bf=3:false:.salesforce.com; domain=.salesforce.com; path=/; secure; SameSite=None&#xd;
+cache-control: private&#xd;
+origin-trial: AkBgNlDiY3u6JLOlyCHNo+uI//ZsQNGdALGkaqj2TaJPsaytJKhRW2ej+qKdkIs3auzeCWPCYX2AE/jVxzJS0AwAAABaeyJvcmlnaW4iOiJodHRwczovL2ZvcmNlLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHBjZCIsImV4cGlyeSI6MTczNTM0Mzk5OSwiaXNTdWJkb21haW4iOnRydWV9&#xd;
+vary: Accept-Encoding&#xd;
+strict-transport-security: max-age=63072000; includeSubDomains&#xd;
+x-robots-tag: none&#xd;
+server: sfdcedge&#xd;
+x-sfdc-request-id: 027c1b519ea9d7dd88857bb297435d61&#xd;
+x-request-id: 027c1b519ea9d7dd88857bb297435d61</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[[{"id":"3","channel":"/meta/subscribe","subscription":"/s/notifications/readstate","clientId":"lud5g3v6oxau7xp5ptadsokkhd84","ext":{"replay":{"/s/notifications/readstate":-1}}}]]]></textPostContent>
+</http-action>

@@ -1,0 +1,118 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/secur/logout.jsp"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@salesforce/%resources%/recorded-artifacts/4aca941c-8606-43a3-84f1-5d0a25afc2e0.zip"
+    slaProfileEnabled="false" thinkTime="9967"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="4aca941c-8606-43a3-84f1-5d0a25afc2e0">
+    <embedded-action>94e2196e-9510-4573-9934-a53db094238c</embedded-action>
+    <embedded-action>db81c030-dc56-413d-9133-87f9f8b53c6e</embedded-action>
+</http-page>
+<http-action actionType="2" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/secur/logout.jsp" path="/secur/logout.jsp"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@salesforce/%resources%/recorded-artifacts/4aca941c-8606-43a3-84f1-5d0a25afc2e0.zip"
+    recordedResponseCode="200" responseSize="1063"
+    serverUid="rhbbank--dev022024.sandbox.my.salesforce.com"
+    slaProfileEnabled="false" uid="94e2196e-9510-4573-9934-a53db094238c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_85a8e0fd-202d-4b47-b076-c040fbc99de2.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_85a8e0fd-202d-4b47-b076-c040fbc99de2.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="navigate"/>
+    <header name="referer" value="https://rhbbank--dev022024.sandbox.lightning.force.com/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="cookie" value="BrowserId=xkDZVsEUEe-q9SFK9jh61w; sfdcConsent=1,3,4; _ga=GA1.1.502163927.1734948049; _gcl_au=1.1.979997168.1734948079; rememberUn=false; com.salesforce.LocaleInfo=us; autocomplete=1; inst=APP_85; oinfo=c3RhdHVzPURFTU8mdHlwZT0yJm9pZD0wMEQ4NTAwMDAwMFJFcmg=; CookieConsentPolicy=0:1; LSKey-c$CookieConsentPolicy=0:1; disco=85:${oid}:00585000002AguT:2; sid_Client=${ExtractedVariable_0}; clientSrc=${clientsrc}; oid=${oid}; 79eb100099b9a8bf=3:false:.salesforce.com; webact=%7B%22l_vdays%22%3A9%2C%22l_visit%22%3A1735817891243%2C%22session%22%3A1735825032235%2C%22l_search%22%3A%22%22%2C%22l_dtype%22%3A%22%22%2C%22l_page%22%3A%22SFDC%3Aus%3Alogin%22%2C%22l_page_url%22%3A%22https%3A%2F%2Fc.salesforce.com%2Flogin-messages%2Fpromos.html%22%2C%22counter%22%3A3%2C%22pv%22%3A2%2C%22f_visit%22%3A1734948046526%2C%22seg%22%3A%22customer%3Aus%22%2C%22customer%22%3A1735817891243%7D; OptanonConsent=isGpcEnabled=0&amp;datestamp=Thu+Jan+02+2025+19%3A07%3A14+GMT%2B0530+(India+Standard+Time)&amp;version=202401.2.0&amp;browserGpcFlag=0&amp;isIABGlobal=false&amp;hosts=&amp;consentId=bf096b7f-b553-4965-a084-c19864b8ddb7&amp;interactionCount=1&amp;landingPath=https%3A%2F%2Fc.salesforce.com%2Flogin-messages%2Fpromos.html&amp;groups=1%3A1%2C3%3A1%2C4%3A1; _ga_S6WMKB0ZK3=GS1.1.1735824561.4.1.1735825034.0.0.0; _ga_ESNS60PH6F=GS1.1.1735824560.4.1.1735825034.0.0.0; sfdc_lv2=${sfdc_lv2}; sid=${oid}!AQEAQNknjalBS8FrDdUIZt5HahzVG8FILjMtMTW6s3V.uHm2rexya1g7JyS_fVjq0JqryVg1XuzAWYgSGZ6DGYO3PoQgudT2"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=0, i"/>
+    <header name="sec-fetch-user" value="?1"/>
+    <header name="accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="upgrade-insecure-requests" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="document"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Thu, 02 Jan 2025 13:39:37 GMT&#xd;
+content-type: text/html; charset=UTF-8&#xd;
+pragma: no-cache&#xd;
+content-encoding: gzip&#xd;
+vary: Accept-Encoding&#xd;
+origin-trial: AqlAE64ET63tVSana3qdVkfkPAgyUhY8GwcehUlpqv067CevOpumeNUlx9YouLkBxJ0CT+EwIb8/SiNbF2NGvwYAAABfeyJvcmlnaW4iOiJodHRwczovL3NhbGVzZm9yY2UuY29tOjQ0MyIsImZlYXR1cmUiOiJUcGNkIiwiZXhwaXJ5IjoxNzM1MzQzOTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZX0=&#xd;
+x-robots-tag: none&#xd;
+cache-control: no-cache,must-revalidate,max-age=0,no-store,private&#xd;
+content-security-policy: upgrade-insecure-requests&#xd;
+set-cookie: 79eb100099b9a8bf=3:false:.salesforce.com; domain=.salesforce.com; path=/; secure; SameSite=None&#xd;
+set-cookie: disco=null; domain=.salesforce.com; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; secure; SameSite=None&#xd;
+set-cookie: loginURL=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; secure; SameSite=None&#xd;
+set-cookie: setupprofileheadergt=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; secure; SameSite=None&#xd;
+set-cookie: setupprofileobjectsandtabsgt=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; secure; SameSite=None&#xd;
+set-cookie: unifiedsearchgt=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; secure; SameSite=None&#xd;
+set-cookie: setupgtclose=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; secure; SameSite=None&#xd;
+set-cookie: sid=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; secure; SameSite=None&#xd;
+set-cookie: sid_Client=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; secure; SameSite=None&#xd;
+set-cookie: clientSrc=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; secure; SameSite=None&#xd;
+set-cookie: inst=; domain=.salesforce.com; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; secure; SameSite=None&#xd;
+referrer-policy: origin-when-cross-origin&#xd;
+x-content-type-options: nosniff&#xd;
+strict-transport-security: max-age=63072000; includeSubDomains&#xd;
+server: sfdcedge&#xd;
+x-sfdc-request-id: 5be9e2050b16d6704c89b4bedf8a406b&#xd;
+x-request-id: 5be9e2050b16d6704c89b4bedf8a406b&#xd;
+x-sfdc-edge-cache: MISS</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/x-javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/jslibrary/1698336665252/sfdc/SfdcSessionBase208.js"
+    path="/jslibrary/1698336665252/sfdc/SfdcSessionBase208.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@salesforce/%resources%/recorded-artifacts/4aca941c-8606-43a3-84f1-5d0a25afc2e0.zip"
+    recordedResponseCode="200"
+    refererUid="94e2196e-9510-4573-9934-a53db094238c"
+    responseSize="16252"
+    serverUid="rhbbank--dev022024.sandbox.my.salesforce.com"
+    slaProfileEnabled="false" uid="db81c030-dc56-413d-9133-87f9f8b53c6e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_93f75446-38d6-49f6-a631-34dfaa4da13c</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_93f75446-38d6-49f6-a631-34dfaa4da13c.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://rhbbank--dev022024.sandbox.my.salesforce.com/secur/logout.jsp"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="BrowserId=xkDZVsEUEe-q9SFK9jh61w; sfdcConsent=1,3,4; _ga=GA1.1.502163927.1734948049; _gcl_au=1.1.979997168.1734948079; rememberUn=false; com.salesforce.LocaleInfo=us; autocomplete=1; oinfo=c3RhdHVzPURFTU8mdHlwZT0yJm9pZD0wMEQ4NTAwMDAwMFJFcmg=; CookieConsentPolicy=0:1; LSKey-c$CookieConsentPolicy=0:1; oid=${oid}; 79eb100099b9a8bf=3:false:.salesforce.com; webact=%7B%22l_vdays%22%3A9%2C%22l_visit%22%3A1735817891243%2C%22session%22%3A1735825032235%2C%22l_search%22%3A%22%22%2C%22l_dtype%22%3A%22%22%2C%22l_page%22%3A%22SFDC%3Aus%3Alogin%22%2C%22l_page_url%22%3A%22https%3A%2F%2Fc.salesforce.com%2Flogin-messages%2Fpromos.html%22%2C%22counter%22%3A3%2C%22pv%22%3A2%2C%22f_visit%22%3A1734948046526%2C%22seg%22%3A%22customer%3Aus%22%2C%22customer%22%3A1735817891243%7D; OptanonConsent=isGpcEnabled=0&amp;datestamp=Thu+Jan+02+2025+19%3A07%3A14+GMT%2B0530+(India+Standard+Time)&amp;version=202401.2.0&amp;browserGpcFlag=0&amp;isIABGlobal=false&amp;hosts=&amp;consentId=bf096b7f-b553-4965-a084-c19864b8ddb7&amp;interactionCount=1&amp;landingPath=https%3A%2F%2Fc.salesforce.com%2Flogin-messages%2Fpromos.html&amp;groups=1%3A1%2C3%3A1%2C4%3A1; _ga_S6WMKB0ZK3=GS1.1.1735824561.4.1.1735825034.0.0.0; _ga_ESNS60PH6F=GS1.1.1735824560.4.1.1735825034.0.0.0; sfdc_lv2=${sfdc_lv2}"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=1"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Thu, 02 Jan 2025 13:39:37 GMT&#xd;
+content-type: application/x-javascript&#xd;
+x-robots-tag: none&#xd;
+cache-control: public,max-age=10368000&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+origin-trial: AqlAE64ET63tVSana3qdVkfkPAgyUhY8GwcehUlpqv067CevOpumeNUlx9YouLkBxJ0CT+EwIb8/SiNbF2NGvwYAAABfeyJvcmlnaW4iOiJodHRwczovL3NhbGVzZm9yY2UuY29tOjQ0MyIsImZlYXR1cmUiOiJUcGNkIiwiZXhwaXJ5IjoxNzM1MzQzOTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZX0=&#xd;
+last-modified: Tue, 15 Aug 2023 06:08:09 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+referrer-policy: origin-when-cross-origin&#xd;
+strict-transport-security: max-age=63072000; includeSubDomains&#xd;
+expires: Fri, 02 May 2025 13:39:37 GMT&#xd;
+server: sfdcedge&#xd;
+x-sfdc-request-id: f41e756e3881351954be3ab9e23b70f2&#xd;
+x-request-id: f41e756e3881351954be3ab9e23b70f2&#xd;
+x-sfdc-edge-cache: MISS</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="3"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>

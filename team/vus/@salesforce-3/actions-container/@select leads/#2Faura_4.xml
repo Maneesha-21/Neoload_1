@@ -1,0 +1,84 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/aura_4"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@salesforce-3/%resources%/recorded-artifacts/09b99f78-f36a-4456-b929-512f427a0e84.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="09b99f78-f36a-4456-b929-512f427a0e84">
+    <embedded-action>a8a26b08-e842-421d-8e1c-85028ede2416</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/json;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Thu, 04 Jan 2024 07:57:26 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/aura" path="/aura" postCharset="UTF-8"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@salesforce-3/%resources%/recorded-artifacts/09b99f78-f36a-4456-b929-512f427a0e84.zip"
+    recordedResponseCode="200" responseSize="9099"
+    serverUid="rhbbank--dev022024.sandbox.lightning.force.com"
+    slaProfileEnabled="false" uid="a8a26b08-e842-421d-8e1c-85028ede2416" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[bWVzc2FnZT0lN0IlMjJhY3Rpb25zJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjIxOTI1JTNCYSUyMiUyQyUyMmRlc2NyaXB0b3IlMjIlM0ElMjJzZXJ2aWNlQ29tcG9uZW50JTNBJTJGJTJGdWkuZ2xvYmFsLmNvbXBvbmVudHMub25lLmFjdGlvbnNNYW5hZ2VyLkFjdGlvbnNNYW5hZ2VyQ29udHJvbGxlciUyRkFDVElPTiUyNGhhbmRsZUFjdGlvbiUyMiUyQyUyMmNhbGxpbmdEZXNjcmlwdG9yJTIyJTNBJTIyVU5LTk9XTiUyMiUyQyUyMnBhcmFtcyUyMiUzQSU3QiUyMmJhdGNoJTIyJTNBJTVCJTdCJTIycmVjb3JkSWQlMjIlM0FudWxsJTJDJTIyY29udGV4dCUyMiUzQSUyMkxJU1RfVklFVyUyMiUyQyUyMmVudGl0eUFwaU5hbWUlMjIlM0ElMjJMZWFkJTIyJTJDJTIycmVjb3JkJTIyJTNBbnVsbCUyQyUyMmxpc3ROYW1lT3JJZCUyMiUzQSUyMl9fUmVjZW50JTIyJTJDJTIyc2l6ZSUyMiUzQTUlMkMlMjJtYXhXaWR0aCUyMiUzQS0xJTJDJTIyYWN0aW9uVHlwZXMlMjIlM0ElNUIlNUQlMkMlMjJidWxrZWRBY3Rpb24lMjIlM0FmYWxzZSUyQyUyMmFjdGlvbk5hbWVzJTIyJTNBJTVCJTVEJTJDJTIyZW5hYmxlQWN0aW9uc0NvbmZpZ3VyYXRpb24lMjIlM0FmYWxzZSUyQyUyMmlzTEFCUHJldmlldyUyMiUzQWZhbHNlJTJDJTIyYWN0aW9uc1JlcXVlc3RJZCUyMiUzQTElN0QlNUQlN0QlN0QlNUQlN0QmYXVyYS5jb250ZXh0PSU3QiUyMm1vZGUlMjIlM0ElMjJQUk9EJTIyJTJDJTIyZnd1aWQlMjIlM0ElMjJlVU5KYmpWNWN6ZG9lakJ2UmxBNU9IcERVMWRQZDFwTVZFeEJRa3BKU2xWRlUyOUJhM2xtY1VOTFdsRTVMak15TUM0eSUyMiUyQyUyMmFwcCUyMiUzQSUyMm9uZSUzQW9uZSUyMiUyQyUyMmxvYWRlZCUyMiUzQSU3QiUyMkFQUExJQ0FUSU9OJTQwbWFya3VwJTNBJTJGJTJGb25lJTNBb25lJTIyJTNBJTIyMzg1MV9Fd25XTmIycVljSnlVTnhXeW94OExRJTIyJTdEJTJDJTIyZG4lMjIlM0ElNUIlNUQlMkMlMjJnbG9iYWxzJTIyJTNBJTdCJTIyZGVuc2l0eSUyMiUzQSUyMlZJRVdfVFdPJTIyJTJDJTIyYXBwQ29udGV4dElkJTIyJTNBJTIyMDZtSVcwMDAwMDBMME9QWUEwJTIyJTdEJTJDJTIydWFkJTIyJTNBdHJ1ZSU3RCZhdXJhLnBhZ2VVUkk9JTJGbGlnaHRuaW5nJTJGbyUyRkxlYWQlMkZsaXN0JmF1cmEudG9rZW49ZXlKdWIyNWpaU0k2SW1Jd1EzbERSSGRITFVOTlYwRkpXakJEZDFneVJrNUlRVFpoVTFoUFoxQjNSMmh0WW5aQlZXSktkbGxjZFRBd00yUWlMQ0owZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSXNJbXRwWkNJNkludGNJblJjSWpwY0lqQXdSRGcxTURBd01EQXdNREF3TVZ3aUxGd2lkbHdpT2x3aU1ESkhPRFV3TURBd01EQXdNREZrWENJc1hDSmhYQ0k2WENKallXbHRZVzV6YVdkdVpYSmNJbjBpTENKamNtbDBJanBiSW1saGRDSmRMQ0pwWVhRaU9qRTNNelU0T0Rjek1qa3lOakFzSW1WNGNDSTZNSDAlM0QuLmJYRWhDSEFhbFNSUmsycmZORXVvMllxN1lseklYeUZRc003V1Y1a040Y0klM0Q=]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_a8a26b08-e842-421d-8e1c-85028ede2416</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_a8a26b08-e842-421d-8e1c-85028ede2416.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="message"
+        recordRawValue="%7B%22actions%22%3A%5B%7B%22id%22%3A%221925%3Ba%22%2C%22descriptor%22%3A%22serviceComponent%3A%2F%2Fui.global.components.one.actionsManager.ActionsManagerController%2FACTION%24handleAction%22%2C%22callingDescriptor%22%3A%22UNKNOWN%22%2C%22params%22%3A%7B%22batch%22%3A%5B%7B%22recordId%22%3Anull%2C%22context%22%3A%22LIST_VIEW%22%2C%22entityApiName%22%3A%22Lead%22%2C%22record%22%3Anull%2C%22listNameOrId%22%3A%22__Recent%22%2C%22size%22%3A5%2C%22maxWidth%22%3A-1%2C%22actionTypes%22%3A%5B%5D%2C%22bulkedAction%22%3Afalse%2C%22actionNames%22%3A%5B%5D%2C%22enableActionsConfiguration%22%3Afalse%2C%22isLABPreview%22%3Afalse%2C%22actionsRequestId%22%3A1%7D%5D%7D%7D%5D%7D"
+        separator="="
+        value="{&quot;actions&quot;:[{&quot;id&quot;:&quot;1925;a&quot;,&quot;descriptor&quot;:&quot;serviceComponent://ui.global.components.one.actionsManager.ActionsManagerController/ACTION$handleAction&quot;,&quot;callingDescriptor&quot;:&quot;UNKNOWN&quot;,&quot;params&quot;:{&quot;batch&quot;:[{&quot;recordId&quot;:null,&quot;context&quot;:&quot;LIST_VIEW&quot;,&quot;entityApiName&quot;:&quot;Lead&quot;,&quot;record&quot;:null,&quot;listNameOrId&quot;:&quot;__Recent&quot;,&quot;size&quot;:5,&quot;maxWidth&quot;:-1,&quot;actionTypes&quot;:[],&quot;bulkedAction&quot;:false,&quot;actionNames&quot;:[],&quot;enableActionsConfiguration&quot;:false,&quot;isLABPreview&quot;:false,&quot;actionsRequestId&quot;:1}]}}]}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="aura.context"
+        recordRawValue="%7B%22mode%22%3A%22PROD%22%2C%22fwuid%22%3A%22eUNJbjV5czdoejBvRlA5OHpDU1dPd1pMVExBQkpJSlVFU29Ba3lmcUNLWlE5LjMyMC4y%22%2C%22app%22%3A%22one%3Aone%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fone%3Aone%22%3A%223851_EwnWNb2qYcJyUNxWyox8LQ%22%7D%2C%22dn%22%3A%5B%5D%2C%22globals%22%3A%7B%22density%22%3A%22VIEW_TWO%22%2C%22appContextId%22%3A%2206mIW000000L0OPYA0%22%7D%2C%22uad%22%3Atrue%7D"
+        separator="="
+        value="{&quot;mode&quot;:&quot;PROD&quot;,&quot;fwuid&quot;:&quot;eUNJbjV5czdoejBvRlA5OHpDU1dPd1pMVExBQkpJSlVFU29Ba3lmcUNLWlE5LjMyMC4y&quot;,&quot;app&quot;:&quot;one:one&quot;,&quot;loaded&quot;:{&quot;APPLICATION@markup://one:one&quot;:&quot;3851_EwnWNb2qYcJyUNxWyox8LQ&quot;},&quot;dn&quot;:[],&quot;globals&quot;:{&quot;density&quot;:&quot;VIEW_TWO&quot;,&quot;appContextId&quot;:&quot;06mIW000000L0OPYA0&quot;},&quot;uad&quot;:true}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="aura.pageURI"
+        recordRawValue="%2Flightning%2Fo%2FLead%2Flist" separator="="
+        value="/lightning/o/Lead/list" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="aura.token"
+        recordRawValue="eyJub25jZSI6ImIwQ3lDRHdHLUNNV0FJWjBDd1gyRk5IQTZhU1hPZ1B3R2htYnZBVWJKdllcdTAwM2QiLCJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6IntcInRcIjpcIjAwRDg1MDAwMDAwMDAwMVwiLFwidlwiOlwiMDJHODUwMDAwMDAwMDFkXCIsXCJhXCI6XCJjYWltYW5zaWduZXJcIn0iLCJjcml0IjpbImlhdCJdLCJpYXQiOjE3MzU4ODczMjkyNjAsImV4cCI6MH0%3D..bXEhCHAalSRRk2rfNEuo2Yq7YlzIXyFQsM7WV5kN4cI%3D"
+        separator="="
+        value="eyJub25jZSI6ImIwQ3lDRHdHLUNNV0FJWjBDd1gyRk5IQTZhU1hPZ1B3R2htYnZBVWJKdllcdTAwM2QiLCJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6IntcInRcIjpcIjAwRDg1MDAwMDAwMDAwMVwiLFwidlwiOlwiMDJHODUwMDAwMDAwMDFkXCIsXCJhXCI6XCJjYWltYW5zaWduZXJcIn0iLCJjcml0IjpbImlhdCJdLCJpYXQiOjE3MzU4ODczMjkyNjAsImV4cCI6MH0=..bXEhCHAalSRRk2rfNEuo2Yq7YlzIXyFQsM7WV5kN4cI=" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="r"
+        recordRawValue="68" separator="=" value="68" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="ui-global-components-one-actionsManager.ActionsManager.handleAction"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://rhbbank--dev022024.sandbox.lightning.force.com/lightning/o/Lead/list"/>
+    <header name="x-sfdc-request-id" value="24467790000ce4891f"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="inst=APP_85; CookieConsentPolicy=0:1; LSKey-c$CookieConsentPolicy=0:1; sid_Client=${sid_Client}; clientSrc=${ClientSrc}; BrowserId=3uDJirqdEe-GWXe3kUjNdw; SetupDomainProbePassed=true; flexipageLMTLead_Record_Page_AF=1735636574000; sid=${oid}!AQEAQDrdyXp1GaDlYQppD.nxTrW5GwFwoC2fGx9ZpX1mBNXlMI6hOXFnN1FFNUm4yTxUCtaIkUHJreprS3kKMVYxKGT7pS5l; flexipageLMTAF_Application_Record_Page=1735880863000; flexipageLMTAF_Opportunity_Record_Page=1735823042000"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://rhbbank--dev022024.sandbox.lightning.force.com"/>
+    <header name="x-b3-sampled" value="0"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="x-b3-traceid" value="de43c934868abe03"/>
+    <header name="x-b3-spanid" value="81f4f38871e3b1c8"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="application/x-www-form-urlencoded; charset=UTF-8"/>
+    <header name="x-sfdc-page-cache" value="65104ae1cf0995fb"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Fri, 03 Jan 2025 06:55:52 GMT&#xd;
+content-type: application/json;charset=UTF-8&#xd;
+referrer-policy: origin-when-cross-origin&#xd;
+last-modified: Thu, 04 Jan 2024 06:55:52 GMT&#xd;
+cache-control: no-cache,must-revalidate,max-age=0,no-store,private&#xd;
+origin-trial: AkBgNlDiY3u6JLOlyCHNo+uI//ZsQNGdALGkaqj2TaJPsaytJKhRW2ej+qKdkIs3auzeCWPCYX2AE/jVxzJS0AwAAABaeyJvcmlnaW4iOiJodHRwczovL2ZvcmNlLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHBjZCIsImV4cGlyeSI6MTczNTM0Mzk5OSwiaXNTdWJkb21haW4iOnRydWV9&#xd;
+vary: Origin, Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+server-timing: Total;dur=46&#xd;
+timing-allow-origin: *&#xd;
+x-robots-tag: none&#xd;
+expires: Thu, 04 Jan 2024 06:55:52 GMT&#xd;
+strict-transport-security: max-age=63072000; includeSubDomains&#xd;
+x-content-type-options: nosniff&#xd;
+server: sfdcedge&#xd;
+x-sfdc-request-id: 24467790000ce4891f&#xd;
+x-request-id: 24467790000ce4891f</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

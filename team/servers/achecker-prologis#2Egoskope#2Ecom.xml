@@ -1,0 +1,5 @@
+<http-server hostname="achecker-prologis.goskope.com" port="443"
+    ssl="true" uid="achecker-prologis.goskope.com"
+    urlrewriting-argument-name="" urlrewriting-enabled="false"
+    urlrewriting-path-extension="false"
+    urlrewriting-path-not-equals="false" urlrewriting-path-separator=";"/>

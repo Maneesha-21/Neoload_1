@@ -1,0 +1,93 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/.well-known/attribution-reporting/debug/verbose"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@salesforce_old/%resources%/recorded-artifacts/d9dcfff3-a3e1-4170-bc24-741b2d4ba553.zip"
+    slaProfileEnabled="false" thinkTime="150"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="d9dcfff3-a3e1-4170-bc24-741b2d4ba553">
+    <embedded-action>44cd7136-daea-45f5-a92d-aef0783fe3b5</embedded-action>
+    <embedded-action>c56bfa5b-7b88-4205-8252-52a63253e51a</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST"
+    name="/.well-known/attribution-reporting/debug/verbose"
+    path="/.well-known/attribution-reporting/debug/verbose" postType="4"
+    recordedArtifactZipFileName="team/vus/@salesforce_old/%resources%/recorded-artifacts/d9dcfff3-a3e1-4170-bc24-741b2d4ba553.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ad.doubleclick.net" slaProfileEnabled="false"
+    uid="44cd7136-daea-45f5-a92d-aef0783fe3b5" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_e88619fc-81ea-476c-bc89-f3b0ca3bb529.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="same-origin"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://ad.doubleclick.net"/>
+    <header name="content-type" value="application/json"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="cache-control" value="no-cache"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="pragma" value="no-cache"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+p3p: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"&#xd;
+timing-allow-origin: *&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+content-type: text/html; charset=UTF-8&#xd;
+x-content-type-options: nosniff&#xd;
+date: Thu, 02 Jan 2025 13:29:53 GMT&#xd;
+server: cafe&#xd;
+Content-Length: 0&#xd;
+x-xss-protection: 0&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[[{"body":{"attribution_destination":"https://salesforce.com","trigger_debug_key":"3309278325285074143"},"type":"trigger-no-matching-source"}]]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/ddm/fls/z/dc_pre=CPfT78GS14oDFflanQkdcaUxCQ;src=11463663;type=pages0;cat=sfdc_0;ord=1;num=2062086405976;npa=0;auiddc=*;u1=undefined;u3=us;u4=en-US;u5=undefined;u6=salesforce;u7=login-messages;u8=promos.html;u9=undefined;u10=undefined;u11=undefined;u13=undefined;u14=undefined;u15=undefined;u16=USD;u17=desktop;u19=undefined;u20=.;u21=undefined;u22=.;u23=.;u24=%2Flogin-messages%2Fpromos.html;gdid=dYWJhMj;ps=1;pcor=1589733695;uaa=x86;uab=64;uafvl=Google%2520Chrome%3B131.0.6778.205%7CChromium%3B131.0.6778.205%7CNot_A%2520Brand%3B24.0.0.0;uamb=0;uam=;uap=Windows;uapv=7.0.0;uaw=0;pscdl=noapi;frm=2;gtm=45fe4cc1v9189969350z878940756za201zb78940756;gcs=G111;gcd=13t3t3t3t5l1;dma=0;tag_exp=101925629~102067555~102067808~102081485~102198178;epver=2;~oref=https%3A%2F%2Fc.salesforce.com%2Flogin-messages%2Fpromos.html"
+    path="/ddm/fls/z/dc_pre=CPfT78GS14oDFflanQkdcaUxCQ;src=11463663;type=pages0;cat=sfdc_0;ord=1;num=2062086405976;npa=0;auiddc=*;u1=undefined;u3=us;u4=en-US;u5=undefined;u6=salesforce;u7=login-messages;u8=promos.html;u9=undefined;u10=undefined;u11=undefined;u13=undefined;u14=undefined;u15=undefined;u16=USD;u17=desktop;u19=undefined;u20=.;u21=undefined;u22=.;u23=.;u24=%2Flogin-messages%2Fpromos.html;gdid=dYWJhMj;ps=1;pcor=1589733695;uaa=x86;uab=64;uafvl=Google%2520Chrome%3B131.0.6778.205%7CChromium%3B131.0.6778.205%7CNot_A%2520Brand%3B24.0.0.0;uamb=0;uam=;uap=Windows;uapv=7.0.0;uaw=0;pscdl=noapi;frm=2;gtm=45fe4cc1v9189969350z878940756za201zb78940756;gcs=G111;gcd=13t3t3t3t5l1;dma=0;tag_exp=101925629~102067555~102067808~102081485~102198178;epver=2;~oref=https%3A%2F%2Fc.salesforce.com%2Flogin-messages%2Fpromos.html"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@salesforce_old/%resources%/recorded-artifacts/d9dcfff3-a3e1-4170-bc24-741b2d4ba553.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="adservice.google.com" slaProfileEnabled="false"
+    uid="c56bfa5b-7b88-4205-8252-52a63253e51a" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_63bafb51-ef50-418e-9acc-bea5edbbe0f3.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://11463663.fls.doubleclick.net/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="cookie" value="NID=520=B6NSWaE1dqK5FTzeTtS9QPUVU49kIRkqPHAf8rlQic874iqX2iqFMmrxj79fk5rIxkCK9Bi8tbQSsI-sXmxRHJsSzA6KOlkxtIfg0Y8vLbkAjWGvsxM5ibXZroyuWCq5mY9gAcoxsXzOnPQmxob0CbrqAiOuMYQPQqXLURTZCR4ficKq6yJf0xBi-VX07CT9cHzk4TPJRqTgKPGIHwfoU8621mwkll_wqdY"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=2, i"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="x-client-data" value="CI22yQEIorbJAQipncoBCNrgygEIkqHLAQiKo8sBCIWgzQEI+9fOARj2yc0B"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+p3p: policyref="https://www.googleadservices.com/pagead/p3p.xml", CP="NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC"&#xd;
+timing-allow-origin: *&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+date: Thu, 02 Jan 2025 13:29:53 GMT&#xd;
+pragma: no-cache&#xd;
+expires: Fri, 01 Jan 1990 00:00:00 GMT&#xd;
+cache-control: no-cache, must-revalidate&#xd;
+content-type: image/gif&#xd;
+x-content-type-options: nosniff&#xd;
+server: cafe&#xd;
+content-length: 42&#xd;
+x-xss-protection: 0&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

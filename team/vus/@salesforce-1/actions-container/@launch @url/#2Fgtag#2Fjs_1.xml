@@ -1,0 +1,218 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/gtag/js_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@salesforce-1/%resources%/recorded-artifacts/f298790d-1817-4916-8d74-af106fca8f70.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="f298790d-1817-4916-8d74-af106fca8f70">
+    <embedded-action>b9881721-2150-4c80-afe1-6e9d1afa9cd4</embedded-action>
+    <embedded-action>1e974adf-c832-48a6-8935-aee85b48e46f</embedded-action>
+    <embedded-action>098ad6b3-6156-4cb1-8df4-27672a7e8743</embedded-action>
+    <embedded-action>307f608d-d029-4fde-975f-917110f0923f</embedded-action>
+    <embedded-action>ed098267-5f30-4e41-a0d2-c7310fadcbb9</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/digital/one-trust/core/stable/scripttemplates/202401.2.0/assets/otCenterRounded.json"
+    path="/digital/one-trust/core/stable/scripttemplates/202401.2.0/assets/otCenterRounded.json"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@salesforce-1/%resources%/recorded-artifacts/f298790d-1817-4916-8d74-af106fca8f70.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="a.sfdcstatic.com" slaProfileEnabled="false"
+    uid="b9881721-2150-4c80-afe1-6e9d1afa9cd4" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_b9881721-2150-4c80-afe1-6e9d1afa9cd4.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://c.salesforce.com/login-messages/promos.html"/>
+    <header name="if-none-match" value="&quot;ffad106072b6fd94e718ea00dda1d0df:1713562585.738713&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://c.salesforce.com"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="if-modified-since" value="Fri, 19 Apr 2024 21:36:25 GMT"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+last-modified: Fri, 19 Apr 2024 21:36:25 GMT&#xd;
+etag: "ffad106072b6fd94e718ea00dda1d0df:1713562585.738713"&#xd;
+expires: Fri, 03 Jan 2025 06:38:49 GMT&#xd;
+cache-control: max-age=0, no-cache&#xd;
+pragma: no-cache&#xd;
+date: Fri, 03 Jan 2025 06:38:49 GMT&#xd;
+timing-allow-origin: *&#xd;
+content-type: application/json; charset=utf-8&#xd;
+access-control-allow-origin: *</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/digital/one-trust/core/stable/scripttemplates/202401.2.0/assets/v2/otPcTab.json"
+    path="/digital/one-trust/core/stable/scripttemplates/202401.2.0/assets/v2/otPcTab.json"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@salesforce-1/%resources%/recorded-artifacts/f298790d-1817-4916-8d74-af106fca8f70.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="a.sfdcstatic.com" slaProfileEnabled="false"
+    uid="1e974adf-c832-48a6-8935-aee85b48e46f" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_1e974adf-c832-48a6-8935-aee85b48e46f.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://c.salesforce.com/login-messages/promos.html"/>
+    <header name="if-none-match" value="&quot;9e2e1a2582cba9594cbfac094fe274d2:1713562586.671175&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://c.salesforce.com"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="if-modified-since" value="Fri, 19 Apr 2024 21:36:26 GMT"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+last-modified: Fri, 19 Apr 2024 21:36:26 GMT&#xd;
+etag: "9e2e1a2582cba9594cbfac094fe274d2:1713562586.671175"&#xd;
+expires: Fri, 03 Jan 2025 06:38:49 GMT&#xd;
+cache-control: max-age=0, no-cache&#xd;
+pragma: no-cache&#xd;
+date: Fri, 03 Jan 2025 06:38:49 GMT&#xd;
+timing-allow-origin: *&#xd;
+content-type: application/json; charset=utf-8&#xd;
+access-control-allow-origin: *</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/digital/one-trust/core/stable/scripttemplates/202401.2.0/assets/otCommonStyles.css"
+    path="/digital/one-trust/core/stable/scripttemplates/202401.2.0/assets/otCommonStyles.css"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@salesforce-1/%resources%/recorded-artifacts/f298790d-1817-4916-8d74-af106fca8f70.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="a.sfdcstatic.com" slaProfileEnabled="false"
+    uid="098ad6b3-6156-4cb1-8df4-27672a7e8743" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_098ad6b3-6156-4cb1-8df4-27672a7e8743.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://c.salesforce.com/login-messages/promos.html"/>
+    <header name="if-none-match" value="&quot;73bc4067d312180a1b19a4d883f42d6a:1713562584.401802&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://c.salesforce.com"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="if-modified-since" value="Thu, 19 Dec 2024 04:10:14 GMT"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+content-type: text/css&#xd;
+last-modified: Thu, 19 Dec 2024 04:10:14 GMT&#xd;
+etag: "73bc4067d312180a1b19a4d883f42d6a:1713562584.401802"&#xd;
+expires: Fri, 03 Jan 2025 06:38:49 GMT&#xd;
+cache-control: max-age=0, no-cache&#xd;
+pragma: no-cache&#xd;
+date: Fri, 03 Jan 2025 06:38:49 GMT&#xd;
+timing-allow-origin: *&#xd;
+access-control-allow-origin: *</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/svg+xml"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/digital/one-trust/core/stable/consent/8e783e8c-0ad0-475d-8fca-4a03afa0a02a/8fefa03d-ef3b-4caa-976f-f01af2e7f932/logos/static/ot_guard_logo.svg"
+    path="/digital/one-trust/core/stable/consent/8e783e8c-0ad0-475d-8fca-4a03afa0a02a/8fefa03d-ef3b-4caa-976f-f01af2e7f932/logos/static/ot_guard_logo.svg"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@salesforce-1/%resources%/recorded-artifacts/f298790d-1817-4916-8d74-af106fca8f70.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="a.sfdcstatic.com" slaProfileEnabled="false"
+    uid="307f608d-d029-4fde-975f-917110f0923f" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_307f608d-d029-4fde-975f-917110f0923f.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://c.salesforce.com/login-messages/promos.html"/>
+    <header name="if-none-match" value="&quot;b57c99c9d1e3c50b2114c6db053d7ff0:1713562610.002909&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://c.salesforce.com"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="if-modified-since" value="Tue, 17 Dec 2024 14:29:50 GMT"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+content-type: image/svg+xml&#xd;
+last-modified: Tue, 17 Dec 2024 14:29:50 GMT&#xd;
+etag: "b57c99c9d1e3c50b2114c6db053d7ff0:1713562610.002909"&#xd;
+expires: Fri, 03 Jan 2025 06:38:49 GMT&#xd;
+cache-control: max-age=0, no-cache&#xd;
+pragma: no-cache&#xd;
+date: Fri, 03 Jan 2025 06:38:49 GMT&#xd;
+timing-allow-origin: *&#xd;
+access-control-allow-origin: *</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/digital/one-trust/core/stable/consent/8e783e8c-0ad0-475d-8fca-4a03afa0a02a/8fefa03d-ef3b-4caa-976f-f01af2e7f932/logos/ddb906c9-f57b-40fc-85a1-c8bcbc371b0d/6a33a761-886e-4860-8e17-abc0832f7a62/corporate_logo_big.png"
+    path="/digital/one-trust/core/stable/consent/8e783e8c-0ad0-475d-8fca-4a03afa0a02a/8fefa03d-ef3b-4caa-976f-f01af2e7f932/logos/ddb906c9-f57b-40fc-85a1-c8bcbc371b0d/6a33a761-886e-4860-8e17-abc0832f7a62/corporate_logo_big.png"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@salesforce-1/%resources%/recorded-artifacts/f298790d-1817-4916-8d74-af106fca8f70.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="a.sfdcstatic.com" slaProfileEnabled="false"
+    uid="ed098267-5f30-4e41-a0d2-c7310fadcbb9" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_ed098267-5f30-4e41-a0d2-c7310fadcbb9.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://c.salesforce.com/login-messages/promos.html"/>
+    <header name="if-none-match" value="&quot;58ce4d66b1c7f253e02d4caebec650a5:1713562609.625436&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="i"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="if-modified-since" value="Fri, 19 Apr 2024 21:36:49 GMT"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+content-type: image/png&#xd;
+last-modified: Fri, 19 Apr 2024 21:36:49 GMT&#xd;
+etag: "58ce4d66b1c7f253e02d4caebec650a5:1713562609.625436"&#xd;
+expires: Fri, 03 Jan 2025 06:38:49 GMT&#xd;
+cache-control: max-age=0, no-cache&#xd;
+pragma: no-cache&#xd;
+date: Fri, 03 Jan 2025 06:38:49 GMT&#xd;
+timing-allow-origin: *</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

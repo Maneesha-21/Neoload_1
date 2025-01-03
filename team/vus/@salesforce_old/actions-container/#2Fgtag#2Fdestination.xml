@@ -1,0 +1,66 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/gtag/destination"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@salesforce_old/%resources%/recorded-artifacts/7669f13a-fc72-49aa-b22c-8c79d08d9664.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="7669f13a-fc72-49aa-b22c-8c79d08d9664">
+    <embedded-action>7be728ab-f162-4670-aba5-693c27d7d720</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/javascript; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/gtag/destination" path="/gtag/destination"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@salesforce_old/%resources%/recorded-artifacts/7669f13a-fc72-49aa-b22c-8c79d08d9664.zip"
+    recordedResponseCode="200" responseSize="234452"
+    serverUid="www.googletagmanager.com" slaProfileEnabled="false"
+    uid="7be728ab-f162-4670-aba5-693c27d7d720" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_cfd49c4e-5322-44ac-87c9-0b5d7ca538ef</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_cfd49c4e-5322-44ac-87c9-0b5d7ca538ef.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="id"
+        recordRawValue="DC-11463663" separator="=" value="DC-11463663" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="l"
+        recordRawValue="dataLayer" separator="=" value="dataLayer" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cx"
+        recordRawValue="c" separator="=" value="c" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="gtm"
+        recordRawValue="45He4cc1v78940756za200" separator="="
+        value="45He4cc1v78940756za200" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="if-modified-since" value="Tue, 24 Dec 2024 06:00:00 GMT"/>
+    <header name="referer" value="https://c.salesforce.com/login-messages/promos.html"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/javascript; charset=UTF-8&#xd;
+access-control-allow-origin: *&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-headers: Cache-Control&#xd;
+content-encoding: br&#xd;
+vary: Accept-Encoding&#xd;
+date: Thu, 02 Jan 2025 13:29:50 GMT&#xd;
+expires: Thu, 02 Jan 2025 13:29:50 GMT&#xd;
+cache-control: private, max-age=900&#xd;
+last-modified: Thu, 02 Jan 2025 12:00:00 GMT&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+content-security-policy-report-only: script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ascgcysghrgc:42:0&#xd;
+cross-origin-opener-policy-report-only: same-origin; report-to=coop_reporting&#xd;
+report-to: {"group":"coop_reporting","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/ascgcysghrgc:42:0"}],}&#xd;
+server: Google Tag Manager&#xd;
+content-length: 83706&#xd;
+x-xss-protection: 0&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

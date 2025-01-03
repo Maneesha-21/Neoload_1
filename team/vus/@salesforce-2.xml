@@ -1,0 +1,31 @@
+<virtual-user errorPolicy="DO_NOTHING"
+    failedAssertionPolicy="DO_NOTHING" slaProfileEnabled="false"
+    type="LEGACY" uid="Salesforce-2">
+    <init-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed once when the Virtual User starts.</description>
+    </init-container>
+    <actions-container clearUserIterationDataMode="AUTO"
+        element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements repeated until the Virtual User stops.</description>
+        <weighted-embedded-action uid="bf10c5f9-e56f-476a-a66e-20b7d7f2b1d1"/>
+        <weighted-embedded-action uid="1d32d297-962d-47d2-90e6-aa3616a44417"/>
+        <weighted-embedded-action uid="1771464e-ab45-4a71-918b-bbc62e2822b8"/>
+        <weighted-embedded-action uid="0df5d595-e613-428d-8f99-91dfd80f1828"/>
+        <weighted-embedded-action uid="c1e69422-b81f-4e14-8606-3f783184168c"/>
+        <weighted-embedded-action uid="225e1278-7d5a-4ce1-b91f-9d9cba4df8ed"/>
+        <weighted-embedded-action uid="e3230426-8bb7-48a1-b695-947cda021929"/>
+        <weighted-embedded-action uid="cf979d70-9bd0-4970-b3f1-a64c2b1ba52c"/>
+    </actions-container>
+    <end-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed before the Virtual User stops.</description>
+    </end-container>
+    <thinktime-policy thinkTimeMode="MODE_SIMPLE_THINK_TIME"
+        thinktimeFactorValue="100" thinktimePolicy="0"
+        thinktimeRangeValue="0" thinktimeValue="5000"/>
+</virtual-user>
